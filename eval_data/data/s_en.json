@@ -1,0 +1,1422 @@
+[
+    {
+        "sentence": "Merkel flew to Washington on Monday to coordinate the EU initiative with its American partner.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+                "begin": 15,
+                "end": 25
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 54,
+                "end": 56
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Angela_Merkel",
+                "begin": 0,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "sentence": "These are for the most part countries in the centre of Europe, with Germany topping the list, but also Switzerland, Austria, Hungary, Benelux and Sweden.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Benelux",
+                "begin": 134,
+                "end": 141
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Sweden",
+                "begin": 146,
+                "end": 152
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Hungary",
+                "begin": 125,
+                "end": 132
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Austria",
+                "begin": 116,
+                "end": 123
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Germany",
+                "begin": 68,
+                "end": 75
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 55,
+                "end": 61
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Switzerland",
+                "begin": 103,
+                "end": 114
+            }
+        ]
+    },
+    {
+        "sentence": "\u2018Tsipras exposes President of the European Council Tusk\u2019.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 1,
+                "end": 8
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 51,
+                "end": 55
+            }
+        ]
+    },
+    {
+        "sentence": "Since the beginning of the year, 564,000 people arrived in Europe via the Mediterranean and some 3,000 death, according to the International Organisation for Migration.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/International_Organization_for_Migration",
+                "begin": 127,
+                "end": 167
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 59,
+                "end": 65
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+                "begin": 74,
+                "end": 87
+            }
+        ]
+    },
+    {
+        "sentence": "Another key issue to address is avoiding a \u201cBrexit\u201d, which would \u201cweaken Europe geopolitically and, in the long term, also economically\u201d.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 73,
+                "end": 79
+            }
+        ]
+    },
+    {
+        "sentence": "Last but not least, Tusk will have to secure a \u201crobust economic growth to reduce unemployment\u201d.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 20,
+                "end": 24
+            }
+        ]
+    },
+    {
+        "sentence": "Eurostat estimates that 18.725 million men and women in the EU28, of whom 14.718 million in the euro area, were unemployed in June 2017.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Eurostat",
+                "begin": 0,
+                "end": 8
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 60,
+                "end": 64
+            }
+        ]
+    },
+    {
+        "sentence": "French, German, Russian and Ukrainian leaders are to hold \"last chance\" peace talks on Ukraine in the Belarus capital of Minsk on 11 February.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Belarus",
+                "begin": 102,
+                "end": 109
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ukraine",
+                "begin": 87,
+                "end": 94
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Minsk",
+                "begin": 121,
+                "end": 126
+            }
+        ]
+    },
+    {
+        "sentence": " \u201cThe Union was partly founded to compete with the United States comercially, ok?\u201d, he declared in an interview in the Times and Bild.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/The_Times",
+                "begin": 119,
+                "end": 124
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Bild",
+                "begin": 129,
+                "end": 133
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 51,
+                "end": 64
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 6,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "sentence": "Fran\u00e7ois Hollande: \u201cEurope has no need for advice from outside for what it should do\u201d.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 20,
+                "end": 26
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+                "begin": 0,
+                "end": 17
+            }
+        ]
+    },
+    {
+        "sentence": " \u201cOrganizations are attacking the European Commission, which they accuse of stifling the voices, and protesting the agreement with the United States,\u201d reports i.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Commission",
+                "begin": 34,
+                "end": 53
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 135,
+                "end": 148
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/I_(newspaper)",
+                "begin": 159,
+                "end": 160
+            }
+        ]
+    },
+    {
+        "sentence": "Thank you Trump for waking us from a deep sleep.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 10,
+                "end": 15
+            }
+        ]
+    },
+    {
+        "sentence": "Among the Member States, the lowest unemployment in June 2017 was recorded in the Czech Republic (2.9 percent), Germany (3.8 percent) and Malta (4.1percent).",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Estonia",
+                "begin": 112,
+                "end": 119
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Czech_Republic",
+                "begin": 82,
+                "end": 96
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Malta",
+                "begin": 138,
+                "end": 143
+            }
+        ]
+    },
+    {
+        "sentence": "Apart from Malta and Italy, all the 'countries' of Europe have welcomed a relatively low number of asylum seekers \u2013 for certain countries so few that they practically disappear of the map.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Malta",
+                "begin": 11,
+                "end": 16
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 51,
+                "end": 57
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Italy",
+                "begin": 21,
+                "end": 26
+            }
+        ]
+    },
+    {
+        "sentence": "OK: in creating the common market, Europeans did indeed want to assert themselves on the international economic stage, and even got so far as to make the Union the second most powerful economy in the world.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 154,
+                "end": 159
+            }
+        ]
+    },
+    {
+        "sentence": "France leads they, with 1,200 fighters, followed by Turkey (1,000), and the UK (600).",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_Kingdom",
+                "begin": 76,
+                "end": 78
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/France",
+                "begin": 0,
+                "end": 6
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Turkey",
+                "begin": 52,
+                "end": 58
+            }
+        ]
+    },
+    {
+        "sentence": "The map was published by geographer Benjamin Henning on his site, where a 2014 map is also available in this year.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/NotInLexico",
+                "begin": 36,
+                "end": 52
+            }
+        ]
+    },
+    {
+        "sentence": "According to the Brussels newspaper, Tsipras is \u201ca likely ally of Putin\u201d: the first person he met after his appointment as Prime Minister on Monday was the Russian ambassador in Greece.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Brussels",
+                "begin": 17,
+                "end": 25
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 178,
+                "end": 184
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+                "begin": 66,
+                "end": 71
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 37,
+                "end": 44
+            }
+        ]
+    },
+    {
+        "sentence": "On 2 February David Cameron and European Council president Donald Tusk agreed on a project settlement that would allow British Prime minister to campaign to keep the UK in the EU in the referendum to be held later this year.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 176,
+                "end": 178
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 59,
+                "end": 70
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/David_Cameron",
+                "begin": 14,
+                "end": 27
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_Kingdom",
+                "begin": 166,
+                "end": 168
+            }
+        ]
+    },
+    {
+        "sentence": "Message to Kiev.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kiev",
+                "begin": 11,
+                "end": 15
+            }
+        ]
+    },
+    {
+        "sentence": "The representatives of the 20 member countries of the European Space Agency have reached an agreement on the building of a new rocket \u2014 Ariane 6 \u2014 after the union of Germany in Luxembourg on 2 December, achieving \u201ca progressive evolution of Ariane 5\u201d, writes Le Monde.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Le_Monde",
+                "begin": 259,
+                "end": 267
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Space_Agency",
+                "begin": 54,
+                "end": 75
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Luxembourg",
+                "begin": 177,
+                "end": 187
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Germany",
+                "begin": 166,
+                "end": 173
+            }
+        ]
+    },
+    {
+        "sentence": "Official Greek sources said \u201cGreece has not asked Russia for financial aid and wants to resolve its debt problems within the European Union\u201d, adds the English version of the Athens newspaper, but Europeans fear Tsipras\u2019s visit \u201ccould result in a deal for a discount on Russian gas\u201d, writes EUobserver.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 125,
+                "end": 139
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 196,
+                "end": 205
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/EUobserver",
+                "begin": 290,
+                "end": 300
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Athens",
+                "begin": 174,
+                "end": 180
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 211,
+                "end": 218
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 29,
+                "end": 35
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 269,
+                "end": 276
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 50,
+                "end": 56
+            }
+        ]
+    },
+    {
+        "sentence": "The data used are from Eurostat.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Eurostat",
+                "begin": 23,
+                "end": 31
+            }
+        ]
+    },
+    {
+        "sentence": "As Donald Tusk starts his first term as the president of the European Council, Gazeta Wyborcza singles out the most important challenges laying ahead of the former Polish prime minister.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Gazeta_Wyborcza",
+                "begin": 79,
+                "end": 94
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Council",
+                "begin": 61,
+                "end": 77
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 3,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "sentence": "Against the Brussels blockade, launched a petition that has racked up more than 850,000 signatures against TTIP in less than a month.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Brussels",
+                "begin": 12,
+                "end": 20
+            }
+        ]
+    },
+    {
+        "sentence": "The Donald Trump's victory in the American presidential election, on 8 November after a brutal and a campaign of provocation, has unleashed a wave of concern in Europe.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 4,
+                "end": 16
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 161,
+                "end": 167
+            }
+        ]
+    },
+    {
+        "sentence": "This cartoon by Marilena Nardi was awarded the first prize for the best cartoon on Europe published in Italy, given in 2015 during Internazionale's festival in Ferrara, on 4 October.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/NotInLexico",
+                "begin": 131,
+                "end": 145
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 83,
+                "end": 89
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Italy",
+                "begin": 103,
+                "end": 108
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/NotInLexico",
+                "begin": 16,
+                "end": 30
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ferrara",
+                "begin": 160,
+                "end": 167
+            }
+        ]
+    },
+    {
+        "sentence": "Tsipras has \u201ccalled for an end to the \u2018circle\u2019 of sanctions against Russia over Ukraine, while Russia\u2019s President Vladimir Putin denied using Athens to sow discord within the EU\", reports Kathimerini.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ukraine",
+                "begin": 80,
+                "end": 87
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 0,
+                "end": 7
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 68,
+                "end": 74
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+                "begin": 114,
+                "end": 128
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Athens",
+                "begin": 142,
+                "end": 148
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kathimerini",
+                "begin": 188,
+                "end": 199
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 175,
+                "end": 177
+            }
+        ]
+    },
+    {
+        "sentence": "The current rate is the lowest recorded in the EU since December 2008.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 47,
+                "end": 49
+            }
+        ]
+    },
+    {
+        "sentence": "The newspaper says that the documents lay out ISIS\u2019s plans to \u201cflood African country with combatants from Syria and Iraq, who will then sail across the Mediterranean posing as migrants\u201d.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Iraq",
+                "begin": 116,
+                "end": 120
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant",
+                "begin": 46,
+                "end": 50
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Syria",
+                "begin": 106,
+                "end": 111
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+                "begin": 152,
+                "end": 165
+            }
+        ]
+    },
+    {
+        "sentence": "At the next EU summits, he will also have to defend the budgetary discipline stipulated in the treaties but currently undermined in France and Italy, which argue that austerity measures stifle economic growth.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/France",
+                "begin": 132,
+                "end": 138
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Italy",
+                "begin": 143,
+                "end": 148
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 12,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "sentence": "The French daily points out that the programme was \u201cput into orbit\u201d 19 years after the Ariane 5 programme was launched in Rome.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Rome",
+                "begin": 122,
+                "end": 126
+            }
+        ]
+    },
+    {
+        "sentence": "As a comparison, in June 2017, the unemployment in the United States was 4.4 percent, up from 4.3 percent in May 2017 but down from 4.9 percent in June 2016.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 55,
+                "end": 68
+            }
+        ]
+    },
+    {
+        "sentence": "But, in daring to predict the success of Brexit and the dislocation of the Union, and, above all, judging NATO \u201cobsolete\u201d, he has in fact shot himself in the foot.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/NATO",
+                "begin": 106,
+                "end": 110
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 75,
+                "end": 80
+            }
+        ]
+    },
+    {
+        "sentence": "Trump is so unenthused by this that he adds: \u201cI don't really care if it's separate or together\u201d.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 0,
+                "end": 5
+            }
+        ]
+    },
+    {
+        "sentence": "Greek prime minister Alexis Tsipras flew to Moscow for a two-day visit on 8 April.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 21,
+                "end": 35
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Moscow",
+                "begin": 44,
+                "end": 50
+            }
+        ]
+    },
+    {
+        "sentence": "The pact also states that treaty references to \u201cever-closer union\u201d are \u201cnot an equivalent to the objective of political integration\u201d.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Union",
+                "begin": 60,
+                "end": 65
+            }
+        ]
+    },
+    {
+        "sentence": "For the European Union, Donald Trump is nothing less than a blessing, since, in just a few phrases, and with remarkable efficacy, he has made it close ranks more than ever for a long time.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 24,
+                "end": 36
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 8,
+                "end": 22
+            }
+        ]
+    },
+    {
+        "sentence": "The largest decreases were registered in Spain (from 19.9 percent to 17.1 percent) and Croatia (from 13.3 percent to 10.6 percent).",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Spain",
+                "begin": 41,
+                "end": 46
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Croatia",
+                "begin": 87,
+                "end": 94
+            }
+        ]
+    },
+    {
+        "sentence": "The jihadist wishes to take advantage of the disorder that reigns in the country following the toppling of Muammar Gaddafi in 2011, writes Daily Telegraph, recalling it has shown its presence in the country by posting a video of a mass beheading of 21 Egyptian Christians on 15 February.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
+                "begin": 107,
+                "end": 122
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/The_Daily_Telegraph",
+                "begin": 139,
+                "end": 154
+            }
+        ]
+    },
+    {
+        "sentence": "Muzzled voice of Cuba.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Cuba",
+                "begin": 17,
+                "end": 21
+            }
+        ]
+    },
+    {
+        "sentence": "Russian daily Kommersant also reports that Moscow is considering supplying Greece with gas at a reduced price.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 75,
+                "end": 81
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kommersant",
+                "begin": 14,
+                "end": 24
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Moscow",
+                "begin": 43,
+                "end": 49
+            }
+        ]
+    },
+    {
+        "sentence": "Never since the enlargement of the Union, the establishment of shared common policy, and the subsequent divorce between Europe and its citizens, have Europeans shared the same irritation and the same desire to raise the gauntlet.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 35,
+                "end": 40
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 120,
+                "end": 126
+            }
+        ]
+    },
+    {
+        "sentence": "Unemployment in the EU at record low since 2008.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 20,
+                "end": 22
+            }
+        ]
+    },
+    {
+        "sentence": "A whole section of the old partisans who voted \u201cNo\u201d French to the European Constitution in 2005 become now European, and it's all of Europe \u2014 besides the far-right \u2014 that understands that from now on the nuclear umbrella is no longer assured, and that Donald Trump has not only declared commercial war on Mexico and China, but also on Europe, which must learn to defend itself, by itself, militarily and commercially.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/China",
+                "begin": 316,
+                "end": 321
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Mexico",
+                "begin": 305,
+                "end": 311
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 133,
+                "end": 139
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 252,
+                "end": 264
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 335,
+                "end": 341
+            }
+        ]
+    },
+    {
+        "sentence": "Among Western European countries, Belgium leads with 40 jihadists per million habitants, followed by Sweden (32) and Denmark (27).",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Western_Europe",
+                "begin": 6,
+                "end": 22
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Belgium",
+                "begin": 34,
+                "end": 41
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Denmark",
+                "begin": 117,
+                "end": 124
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Sweden",
+                "begin": 101,
+                "end": 107
+            }
+        ]
+    },
+    {
+        "sentence": "The pact has to be agreed at an EU summit starting on 18 February.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 32,
+                "end": 34
+            }
+        ]
+    },
+    {
+        "sentence": "The Greek government said Tusk should have contacted Athens before sending out the declaration.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Athens",
+                "begin": 53,
+                "end": 59
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 26,
+                "end": 30
+            }
+        ]
+    },
+    {
+        "sentence": "According to Le Monde, Europeans have to react swiftly if they don\u2019t want to \u201close their advantage on the market\u201d.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Le_Monde",
+                "begin": 13,
+                "end": 21
+            }
+        ]
+    },
+    {
+        "sentence": "Compared with a year ago, unemployment fell in all Member States for which data is comparable over time, except Estonia which showed an increase (from 6.5 percent in May 2016 to 6.9 percent in May 2017).",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Estonia",
+                "begin": 112,
+                "end": 119
+            }
+        ]
+    },
+    {
+        "sentence": "As Gazeta Wyborcza points out, if Tusk succeeds in all three areas \u2014 he might become, just like Van Rompuy, a midwife of key compromises [in the EU].",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Herman_Van_Rompuy",
+                "begin": 96,
+                "end": 106
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 34,
+                "end": 38
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Gazeta_Wyborcza",
+                "begin": 3,
+                "end": 18
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 145,
+                "end": 147
+            }
+        ]
+    },
+    {
+        "sentence": "The highest unemployment were observed in Greece (21.7 percent in April 2017) and Spain (17.1 percent).",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 42,
+                "end": 48
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Spain",
+                "begin": 82,
+                "end": 87
+            }
+        ]
+    },
+    {
+        "sentence": "Donald Trump belongs to that category of Americans who have never liked for the idea of a united Europe, because they see it as a threat to the economic preeminence of their own country.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 97,
+                "end": 103
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 0,
+                "end": 12
+            }
+        ]
+    },
+    {
+        "sentence": " \"Sophia\" can boasts nine warships and 1,300 men, taking its name from a little girl who was born while crossing the Mediterranean.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+                "begin": 117,
+                "end": 130
+            }
+        ]
+    },
+    {
+        "sentence": " \u201cEmpty chair for Fari\u00f1as,\u201d headlines Gazeta Wyborcza the day after the ceremony for the 2010 Sakharov Prize in the European Parliament.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+                "begin": 18,
+                "end": 25
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Sakharov_Prize",
+                "begin": 94,
+                "end": 108
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Parliament",
+                "begin": 116,
+                "end": 135
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Gazeta_Wyborcza",
+                "begin": 38,
+                "end": 53
+            }
+        ]
+    },
+    {
+        "sentence": "He also vowed to continue his struggle, last January, Fari\u00f1as went on a 135 day hunger strike to obtain the release from jail of 42 Cuban opposition members.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+                "begin": 54,
+                "end": 61
+            }
+        ]
+    },
+    {
+        "sentence": "All together, more than 400,000 people have requested asylum in Europe over the first six months of the year.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 64,
+                "end": 70
+            }
+        ]
+    },
+    {
+        "sentence": "This map, created by Radio Free Europe/Radio Liberty the day after attacks carried out by the organization calling itself Islamic State which left at least 129 deaths in Paris and its suburbs, shows the countries of foreign fighters in Iraq and Syria, in particularly Europe.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Syria",
+                "begin": 245,
+                "end": 250
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Paris",
+                "begin": 170,
+                "end": 175
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Iraq",
+                "begin": 236,
+                "end": 240
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 268,
+                "end": 274
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty",
+                "begin": 21,
+                "end": 52
+            }
+        ]
+    },
+    {
+        "sentence": "Some populist leaders however, like the Hungarian Viktor Orb\u00e1n, the Dutch Geert Wilders, the German Frauke Petry and the French Marine Le Pen, were delighted, as they believe that Trump's election will take advantage of it in the upcoming elections in their respective countries.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Geert_Wilders",
+                "begin": 74,
+                "end": 87
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 180,
+                "end": 186
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Marine_Le_Pen",
+                "begin": 128,
+                "end": 141
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Frauke_Petry",
+                "begin": 100,
+                "end": 112
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n",
+                "begin": 50,
+                "end": 62
+            }
+        ]
+    },
+    {
+        "sentence": "With his clear-cut positions and confrontational attitude towards other powers, the thundering businessman who occupies the White House since January 20th has the merit of centering the attention of the majority of European countries.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/White_House",
+                "begin": 124,
+                "end": 135
+            }
+        ]
+    },
+    {
+        "sentence": "The summit comes in the wake of a series of meetings by Angela Merkel and Fran\u00e7ois Hollande, who were in Kiev on 6 February and in Moscow the day after.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kiev",
+                "begin": 105,
+                "end": 109
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Moscow",
+                "begin": 131,
+                "end": 137
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+                "begin": 74,
+                "end": 91
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Angela_Merkel",
+                "begin": 56,
+                "end": 69
+            }
+        ]
+    },
+    {
+        "sentence": "Now the most important task for the Union and Tusk alike is to keep a cohesive line against an aggressive Russia\u2019s policy.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 36,
+                "end": 41
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 46,
+                "end": 50
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 106,
+                "end": 112
+            }
+        ]
+    },
+    {
+        "sentence": "But the annoying thing, with this Twitter lover, is that he has also raised his tone against Beijing, where they're now talking about \u201cstrong counter-measures\u201d, which is to say military action, if he keeps toying with the question of Taiwan.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Twitter",
+                "begin": 34,
+                "end": 41
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Taiwan",
+                "begin": 234,
+                "end": 240
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Beijing",
+                "begin": 93,
+                "end": 100
+            }
+        ]
+    },
+    {
+        "sentence": "There's a form of unanimity against Trump: Angela Merkel: \u201cI'm going to continue to act so that the 27 member states work together in facing the challenges of the 21st century\u201d.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 36,
+                "end": 41
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Angela_Merkel",
+                "begin": 43,
+                "end": 56
+            }
+        ]
+    },
+    {
+        "sentence": "The plan is a response to Cameron's demands, offering Britain, which already enjoys several exceptions from EU treaty, a gradual brake on social benefits for EU workers, and  cuts for the children of EU workers living outside Britain.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Great_Britain",
+                "begin": 226,
+                "end": 233
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 108,
+                "end": 110
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 200,
+                "end": 202
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 158,
+                "end": 160
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/David_Cameron",
+                "begin": 26,
+                "end": 33
+            }
+        ]
+    },
+    {
+        "sentence": "According to the latest Eurostat figures the unemployment has hit its lowest rate since December 2008 for the second month in a row in June.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Eurostat",
+                "begin": 24,
+                "end": 32
+            }
+        ]
+    },
+    {
+        "sentence": "According to the latest Eurostat findings, the unemployment in the EU was 7.7 percent in June 2017, the same rate as in May, and down from 8.6 percent in June 2016.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 67,
+                "end": 69
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Eurostat",
+                "begin": 24,
+                "end": 32
+            }
+        ]
+    },
+    {
+        "sentence": "The Transatlantic Trade and Investment Partnership (TTIP in English) is a commercial agreement under negotiation between the EU and the US would \u201charmonise laws on both sides of the Atlantic ocean to allow major European and American companies to invest and increase their profits on a larger market\u201d, writes the paper.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 125,
+                "end": 127
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 136,
+                "end": 138
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Atlantic_Ocean",
+                "begin": 182,
+                "end": 196
+            }
+        ]
+    },
+    {
+        "sentence": "In proportion to the population, it is from Bosnia Herzegovina that the highest number of jihadists originate (92 per million habitants), followed by Kosovo (83) and Albania (46).",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+                "begin": 44,
+                "end": 62
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kosovo",
+                "begin": 150,
+                "end": 156
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Albania",
+                "begin": 166,
+                "end": 173
+            }
+        ]
+    },
+    {
+        "sentence": "It could also become a bad example for other EU members and lead to \u201cerosion of the achievements in European integration\u201d.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 45,
+                "end": 47
+            }
+        ]
+    },
+    {
+        "sentence": "On 7 October, Operation Triton, a mission monitoring migration routes in Italy, was joined by Operation Sophia. ",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Italy",
+                "begin": 73,
+                "end": 78
+            }
+        ]
+    },
+    {
+        "sentence": " \u201cGreece under the Prime Minister Alexis Tsipras could become a thorn in side of of the European Union on both an economic and political level\u201d, writes De Standaard.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/De_Standaard",
+                "begin": 152,
+                "end": 164
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 34,
+                "end": 48
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 88,
+                "end": 102
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 2,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "sentence": "The US and the EU do not agree however on considering wether to supply military aid to Kiev.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 15,
+                "end": 17
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kiev",
+                "begin": 87,
+                "end": 91
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 4,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "sentence": "The award was given to the Cuban dissident Guillermo Fari\u00f1as, who was banned by Cuban authorities from travelling to Strasbourg.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Strasbourg",
+                "begin": 117,
+                "end": 127
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+                "begin": 43,
+                "end": 60
+            }
+        ]
+    },
+    {
+        "sentence": "Islamic State (ISIS) organization plans to take over Libya and use the country as a gate to attack Europe, British newspaper Daily Telegraph reported after consulting propaganda documents found by anti-extremist Quilliam.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Libya",
+                "begin": 53,
+                "end": 58
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/The_Daily_Telegraph",
+                "begin": 125,
+                "end": 140
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 99,
+                "end": 105
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant",
+                "begin": 15,
+                "end": 19
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Quilliam_(think_tank)",
+                "begin": 212,
+                "end": 220
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant",
+                "begin": 0,
+                "end": 13
+            }
+        ]
+    },
+    {
+        "sentence": "Europe closes its ranks but the world becomes more uncertain than ever before.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 0,
+                "end": 6
+            }
+        ]
+    },
+    {
+        "sentence": "[\u2026] Fortunately, Berlin is currently opposed to easing sanctions on Moscow, which will make Tusk\u2019s work easier.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Berlin",
+                "begin": 17,
+                "end": 23
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Moscow",
+                "begin": 68,
+                "end": 74
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 92,
+                "end": 96
+            }
+        ]
+    },
+    {
+        "sentence": "Old Europe.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 4,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "sentence": "What\u2019s ahead for Donald Tusk.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 17,
+                "end": 28
+            }
+        ]
+    },
+    {
+        "sentence": "Earlier on Tuesday, Tusk had asked EU foreign affairs ministers to propose new sanctions against Russia at Thursday's meeting.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 20,
+                "end": 24
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 35,
+                "end": 37
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 97,
+                "end": 103
+            }
+        ]
+    }
+]

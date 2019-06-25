@@ -1,0 +1,3832 @@
+[
+    {
+        "sentence": "La mappa dei richiedenti asilo per paese.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Rifugiato",
+                "begin": 13,
+                "end": 30
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Diritto_di_asilo",
+                "begin": 25,
+                "end": 30
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Map",
+                "begin": 3,
+                "end": 8
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Paese_(area_geografica)",
+                "begin": 35,
+                "end": 40
+            }
+        ]
+    },
+    {
+        "sentence": "Gli Stati Uniti e l'Unione europea non sono tuttavia d'accordo con gli aiuti militari a Kiev.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 4,
+                "end": 15
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Military",
+                "begin": 77,
+                "end": 85
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Aid",
+                "begin": 71,
+                "end": 76
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 20,
+                "end": 34
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kiev",
+                "begin": 88,
+                "end": 92
+            }
+        ]
+    },
+    {
+        "sentence": "Jihadista vuole approfittare del disordine che regna nel paese dalla caduta di Gheddafi nel 2011, scrive ancora il Daily Telegraph, che ricorda come ha dimostrato di essere presente nel paese postando una video della decapitazione di 21 cristiani egiziani, il 15 febbraio.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/2011",
+                "begin": 92,
+                "end": 96
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Febbraio",
+                "begin": 263,
+                "end": 271
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/15_febbraio",
+                "begin": 260,
+                "end": 271
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Jihadism",
+                "begin": 0,
+                "end": 9
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
+                "begin": 79,
+                "end": 87
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Video",
+                "begin": 205,
+                "end": 210
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Paese_(area_geografica)",
+                "begin": 57,
+                "end": 62
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Documento",
+                "begin": 33,
+                "end": 42
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Country",
+                "begin": 186,
+                "end": 191
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Christian",
+                "begin": 237,
+                "end": 246
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Egitto",
+                "begin": 247,
+                "end": 255
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/The_Daily_Telegraph",
+                "begin": 115,
+                "end": 130
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Decapitation",
+                "begin": 217,
+                "end": 230
+            }
+        ]
+    },
+    {
+        "sentence": "Il piano \u00e8 una risposta alle esigenze formulate da Cameron e offre al Regno Unito, che gi\u00e0 gode di numerosi eccezioni dai trattati dell'UE, un freno graduale a beneficio sociale dei lavoratori dell'UE e dei figli di lavoratori dell'UE che vivono al di fuori del Regno Unito.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Plan",
+                "begin": 3,
+                "end": 8
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Child",
+                "begin": 207,
+                "end": 212
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_Kingdom",
+                "begin": 70,
+                "end": 81
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 198,
+                "end": 200
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Employment",
+                "begin": 216,
+                "end": 226
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Profitto",
+                "begin": 160,
+                "end": 177
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Lavoratore",
+                "begin": 182,
+                "end": 192
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Regno_Unito",
+                "begin": 262,
+                "end": 273
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Brake",
+                "begin": 143,
+                "end": 148
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 136,
+                "end": 138
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/David_Cameron",
+                "begin": 51,
+                "end": 58
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 232,
+                "end": 234
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Treaty",
+                "begin": 122,
+                "end": 130
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Societ%C3%A0_(sociologia)",
+                "begin": 170,
+                "end": 177
+            }
+        ]
+    },
+    {
+        "sentence": "Messaggio per Kiev.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Message",
+                "begin": 0,
+                "end": 9
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Kiev",
+                "begin": 14,
+                "end": 18
+            }
+        ]
+    },
+    {
+        "sentence": " \"Sedia vuota per Fari\u00f1as\", titola Gazeta Wyborcza un giorno dopo l'assegnazione del premio Sacharov 2010 di pensiero alla cerimonia del Parlamento europeo.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Cerimoniale_di_Stato",
+                "begin": 123,
+                "end": 132
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Day",
+                "begin": 54,
+                "end": 60
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Chair",
+                "begin": 2,
+                "end": 7
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Parliament",
+                "begin": 137,
+                "end": 155
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Premio_Sakharov_per_la_libert%C3%A0_di_pensiero",
+                "begin": 85,
+                "end": 100
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+                "begin": 18,
+                "end": 25
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2010",
+                "begin": 101,
+                "end": 105
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Gazeta_Wyborcza",
+                "begin": 35,
+                "end": 50
+            }
+        ]
+    },
+    {
+        "sentence": "Rispetto alla popolazione, il numero di jihadisti stimati pi\u00f9 elevato proviene dalla Bosnia Erzegovina (93 per milione di abitanti), seguita dal Kosovo (83) e dall'Albania (46).",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Albania",
+                "begin": 164,
+                "end": 171
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/1,000,000",
+                "begin": 111,
+                "end": 118
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Kosovo",
+                "begin": 145,
+                "end": 151
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+                "begin": 85,
+                "end": 102
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Population",
+                "begin": 14,
+                "end": 25
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Jihadism",
+                "begin": 40,
+                "end": 49
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Numero",
+                "begin": 30,
+                "end": 36
+            }
+        ]
+    },
+    {
+        "sentence": "Fran\u00e7ois Hollande: \"L'Europa non ha bisogno di consigli da fuori per quello che dovrebbe fare\".",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+                "begin": 0,
+                "end": 17
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Advice_(opinion)",
+                "begin": 47,
+                "end": 55
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 22,
+                "end": 28
+            }
+        ]
+    },
+    {
+        "sentence": "La mappa dei paesi dei jihadisti europei.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Paese_(area_geografica)",
+                "begin": 13,
+                "end": 18
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Jihadism",
+                "begin": 23,
+                "end": 32
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 33,
+                "end": 40
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Map",
+                "begin": 3,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "sentence": "Voce mozzata di Cuba",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Cuba",
+                "begin": 16,
+                "end": 20
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Voce",
+                "begin": 0,
+                "end": 4
+            }
+        ]
+    },
+    {
+        "sentence": "Un altro dossier sensibile per l'UE \u00e8 quello che consiste a evitare il \u201cBrexit\u201d, che \u201cindebolirebbe l\u2019Europa dal punto di vista geopolitico e, sul lungo periodo, anche economico\u201d. ",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Brexit",
+                "begin": 72,
+                "end": 78
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Geopolitica",
+                "begin": 128,
+                "end": 139
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 102,
+                "end": 108
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 33,
+                "end": 35
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Term_(time)",
+                "begin": 153,
+                "end": 160
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Economia",
+                "begin": 168,
+                "end": 177
+            }
+        ]
+    },
+    {
+        "sentence": "Tsipras \"chiesto la fine del 'circolo' delle sanzioni contro la Russia per l'Ucraina, mentre il presidente russo Vladimir Putin ha smentito usare Atene per creare divisioni in seno all'UE\", riferisce Kathimerini.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Kathimerini",
+                "begin": 200,
+                "end": 211
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 185,
+                "end": 187
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+                "begin": 113,
+                "end": 127
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 107,
+                "end": 112
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Atene",
+                "begin": 146,
+                "end": 151
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Sanzione",
+                "begin": 45,
+                "end": 53
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ukraine",
+                "begin": 77,
+                "end": 84
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Presidente",
+                "begin": 96,
+                "end": 106
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 0,
+                "end": 7
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Presidente_della_Federazione_Russa",
+                "begin": 96,
+                "end": 112
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 64,
+                "end": 70
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Circle",
+                "begin": 30,
+                "end": 37
+            }
+        ]
+    },
+    {
+        "sentence": "Il calo pi\u00f9 importante \u00e8 stato registrato in Spagna (dal 19,9 per cento al 17,1 per cento) e in Croazia (dal 13,3 per cento al 10,6 per cento).",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Spain",
+                "begin": 45,
+                "end": 51
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Croazia",
+                "begin": 96,
+                "end": 103
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Percentuale",
+                "begin": 132,
+                "end": 141
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Percentuale",
+                "begin": 62,
+                "end": 71
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Percentuale",
+                "begin": 114,
+                "end": 123
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Percentuale",
+                "begin": 80,
+                "end": 89
+            }
+        ]
+    },
+    {
+        "sentence": "Il compito pi\u00f9 importante per l\u2019Unione e per Tusk \u00e8 mantenere una linea unita di fronte alla politica aggressiva della russia. ",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 32,
+                "end": 38
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 45,
+                "end": 49
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Line_(geometry)",
+                "begin": 66,
+                "end": 71
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Russia",
+                "begin": 119,
+                "end": 125
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Politica",
+                "begin": 93,
+                "end": 101
+            }
+        ]
+    },
+    {
+        "sentence": "Trump \u00e8 in questa categoria di americani che non hanno mai apprezzato l\u2019idea di un\u2019Europa unita, perch\u00e9 la considerano una minaccia per la preeminencia economico del loro paese.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Statunitensi",
+                "begin": 31,
+                "end": 40
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 0,
+                "end": 5
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 83,
+                "end": 89
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Category_of_being",
+                "begin": 18,
+                "end": 27
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Idea",
+                "begin": 72,
+                "end": 76
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Economy",
+                "begin": 152,
+                "end": 161
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Paese_(area_geografica)",
+                "begin": 171,
+                "end": 176
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greatness",
+                "begin": 139,
+                "end": 151
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 123,
+                "end": 131
+            }
+        ]
+    },
+    {
+        "sentence": "Il 2 febbraio David Cameron e il presidente del Consiglio europeo Donald Tusk hanno presentato una progetto di accordo che consentir\u00e0 al premier britannico di far campagna per mantenere il suo paese nell'Unione europea in vista del referendum che deve organizzare pi\u00f9 tardi quest'anno.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/2_febbraio",
+                "begin": 3,
+                "end": 13
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Council",
+                "begin": 48,
+                "end": 65
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Ministro",
+                "begin": 137,
+                "end": 144
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Regno_Unito",
+                "begin": 193,
+                "end": 198
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Great_Britain",
+                "begin": 145,
+                "end": 155
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Referendum",
+                "begin": 232,
+                "end": 242
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/President",
+                "begin": 33,
+                "end": 43
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/President_of_the_European_Council",
+                "begin": 33,
+                "end": 65
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 58,
+                "end": 65
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 66,
+                "end": 77
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom",
+                "begin": 137,
+                "end": 155
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Febbraio",
+                "begin": 5,
+                "end": 13
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/David_Cameron",
+                "begin": 14,
+                "end": 27
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Project",
+                "begin": 99,
+                "end": 107
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 204,
+                "end": 218
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Campagna_elettorale",
+                "begin": 163,
+                "end": 171
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Year",
+                "begin": 280,
+                "end": 284
+            }
+        ]
+    },
+    {
+        "sentence": "Per finire Tusk dovr\u00e0 garantire \u201cuna solida crescita economica per ridurre la disoccupazione\u201d. ",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Crescita_economica",
+                "begin": 44,
+                "end": 62
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Economia",
+                "begin": 53,
+                "end": 62
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 11,
+                "end": 15
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Unemployment",
+                "begin": 78,
+                "end": 92
+            }
+        ]
+    },
+    {
+        "sentence": "Per questo motivo sua sedia coperta con la bandiera cubana, \u00e8 rimasta vuota durante la cerimonia.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Cuba",
+                "begin": 52,
+                "end": 58
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Bandiera_di_Cuba",
+                "begin": 43,
+                "end": 58
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Chair",
+                "begin": 22,
+                "end": 27
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ceremony",
+                "begin": 87,
+                "end": 96
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Bandiera",
+                "begin": 43,
+                "end": 51
+            }
+        ]
+    },
+    {
+        "sentence": "I dirigenti francese, tedesco, russo e ucraino devono tenere \"dell'ultima possibilit\u00e0\" di colloqui di pace in Ucraina l'11 febbraio a Minsk, capitale della Bielorussia.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Minsk",
+                "begin": 134,
+                "end": 139
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Belarus",
+                "begin": 156,
+                "end": 167
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ukraine",
+                "begin": 110,
+                "end": 117
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/11_febbraio",
+                "begin": 120,
+                "end": 131
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Francia",
+                "begin": 12,
+                "end": 20
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Peace",
+                "begin": 102,
+                "end": 106
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Ucraini",
+                "begin": 39,
+                "end": 46
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Febbraio",
+                "begin": 123,
+                "end": 131
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Capitale_(citt%C3%A0)",
+                "begin": 141,
+                "end": 149
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Russia",
+                "begin": 31,
+                "end": 36
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Germania",
+                "begin": 22,
+                "end": 29
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Leadership",
+                "begin": 2,
+                "end": 11
+            }
+        ]
+    },
+    {
+        "sentence": "Occorre ora trasformare questa atteggiamento relativa in una vera e propria politica.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Politics",
+                "begin": 76,
+                "end": 84
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Attitude_(psychology)",
+                "begin": 31,
+                "end": 44
+            }
+        ]
+    },
+    {
+        "sentence": "Si tratta del tasso pi\u00f9 basso registrato nell\u2019eurozona dal febbraio 2009.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/February",
+                "begin": 59,
+                "end": 67
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2009",
+                "begin": 68,
+                "end": 72
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Eurozone",
+                "begin": 46,
+                "end": 54
+            }
+        ]
+    },
+    {
+        "sentence": "Oggi c'\u00e8 l'unanimit\u00e0 contro Trump. Ecco un paio di esempi. Angela Merkel: \"Continuer\u00f2 ad agire in modo che i 27 stati membri lavorino insieme per affrontare le sfide del 21 \u00b0 secolo\".",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 28,
+                "end": 33
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/XXI_secolo",
+                "begin": 170,
+                "end": 181
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Spettro_politico",
+                "begin": 11,
+                "end": 20
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union",
+                "begin": 112,
+                "end": 124
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Angela_Merkel",
+                "begin": 59,
+                "end": 72
+            }
+        ]
+    },
+    {
+        "sentence": "Secondo Le Monde gli europei devono reagire in fretta se non vogliono \u201cperdere la supremazia sul mercato\u201d.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Mercato",
+                "begin": 97,
+                "end": 104
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 21,
+                "end": 28
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Le_Monde",
+                "begin": 8,
+                "end": 16
+            }
+        ]
+    },
+    {
+        "sentence": "Si tratta del dato di Ue pi\u00f9 basso dal dicembre 2008, allo scoppio della crisi finanziaria.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/2008",
+                "begin": 48,
+                "end": 52
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 22,
+                "end": 24
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/December",
+                "begin": 39,
+                "end": 47
+            }
+        ]
+    },
+    {
+        "sentence": "Come sottolinea Gazeta Wyborcza, se Tusk vince queste tre sfide, potr\u00e0 diventare, come il suo predecessore Van Rompuy, un mago dei compromessi chiave dell\u2019Ue.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 155,
+                "end": 157
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Gazeta_Wyborcza",
+                "begin": 16,
+                "end": 31
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 36,
+                "end": 40
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Compromesso",
+                "begin": 131,
+                "end": 142
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Herman_Van_Rompuy",
+                "begin": 107,
+                "end": 117
+            }
+        ]
+    },
+    {
+        "sentence": "Fonti del governo greco hanno affermato che \"la Grecia non ha chiesto aiuto finanziario alla Russia e vuole risolvere il suo problema di indebitamento all'interno dell'Ue\", aggiunge la versione in inglese del quotidiano di Atene, mentre gli europei temono che la visita di Tsipras \"possa concludersi con uno sconto sul gas russo\", nota EUobserver.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/EUobserver",
+                "begin": 336,
+                "end": 346
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 0,
+                "end": 5
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Russia",
+                "begin": 323,
+                "end": 328
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Grecia",
+                "begin": 48,
+                "end": 54
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Gas",
+                "begin": 319,
+                "end": 322
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giornale",
+                "begin": 209,
+                "end": 219
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Grecia",
+                "begin": 18,
+                "end": 23
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Athens",
+                "begin": 223,
+                "end": 228
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 273,
+                "end": 280
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Debito_pubblico",
+                "begin": 137,
+                "end": 150
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Aiuto_allo_sviluppo",
+                "begin": 70,
+                "end": 75
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Lingua_inglese",
+                "begin": 197,
+                "end": 204
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 241,
+                "end": 248
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 93,
+                "end": 99
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 168,
+                "end": 170
+            }
+        ]
+    },
+    {
+        "sentence": "Durante i vertici europei dovr\u00e0 anche difendere la disciplina di bilancio prevista dai trattati e al momento minacciata da Francia e Italia, secondo le quali l\u2019austerity impedisce la crescita economica. ",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 18,
+                "end": 25
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/France",
+                "begin": 123,
+                "end": 130
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Crescita_economica",
+                "begin": 183,
+                "end": 201
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Summit_(meeting)",
+                "begin": 10,
+                "end": 17
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Austerity",
+                "begin": 160,
+                "end": 169
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Italia",
+                "begin": 133,
+                "end": 139
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Discipline",
+                "begin": 51,
+                "end": 61
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Economy",
+                "begin": 192,
+                "end": 201
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Treaty",
+                "begin": 87,
+                "end": 95
+            }
+        ]
+    },
+    {
+        "sentence": " \u201cCon la direzione del primo ministro Alexis Tsipras, Grecia pu\u00f2 essere una spina nell\u2019UNione europe, non solo a livello economico, ma anche a livello politico\u201d, osserva De Standaard.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Prime_minister",
+                "begin": 23,
+                "end": 37
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Minister_(government)",
+                "begin": 29,
+                "end": 37
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Politics",
+                "begin": 151,
+                "end": 159
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Economia",
+                "begin": 121,
+                "end": 130
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 170,
+                "end": 182
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Grecia",
+                "begin": 54,
+                "end": 60
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 87,
+                "end": 100
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Thorns,_spines,_and_prickles",
+                "begin": 76,
+                "end": 81
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Alex%C4%ABs_Tsipras",
+                "begin": 38,
+                "end": 52
+            }
+        ]
+    },
+    {
+        "sentence": "\u201cAccordo storico degli europei per un nuovo razzo Ariane 6\u201d.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Razzo",
+                "begin": 44,
+                "end": 49
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Ariane_6",
+                "begin": 50,
+                "end": 58
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 23,
+                "end": 30
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Metodo_del_consenso",
+                "begin": 1,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "sentence": "Grazie tante, Trump. Grazie di averci risvegliato da un lungo sonno.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Donald_Trump",
+                "begin": 14,
+                "end": 19
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Blessing",
+                "begin": 56,
+                "end": 67
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Sleep",
+                "begin": 62,
+                "end": 67
+            }
+        ]
+    },
+    {
+        "sentence": "La disoccupazione nell\u2019Ue ai minimi dal 2008.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Disoccupazione",
+                "begin": 3,
+                "end": 17
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 23,
+                "end": 25
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/2008",
+                "begin": 40,
+                "end": 44
+            }
+        ]
+    },
+    {
+        "sentence": "Nell\u2019eurozona il tasso di disoccupazione con aggiustamento stagionale era del 9,1 per cento in giugno 2017, rispetto al 9,2 per cento di maggio 2017 e al di sotto del 10,1 per cento di giugno 2016.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giugno",
+                "begin": 95,
+                "end": 101
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Unemployment",
+                "begin": 26,
+                "end": 40
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Percentuale",
+                "begin": 82,
+                "end": 91
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Zona_euro",
+                "begin": 5,
+                "end": 13
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Maggio",
+                "begin": 137,
+                "end": 143
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giugno",
+                "begin": 185,
+                "end": 191
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Percentuale",
+                "begin": 124,
+                "end": 133
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2017",
+                "begin": 144,
+                "end": 148
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2016",
+                "begin": 192,
+                "end": 196
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Percentage",
+                "begin": 172,
+                "end": 181
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2017",
+                "begin": 102,
+                "end": 106
+            }
+        ]
+    },
+    {
+        "sentence": "I paesi con il pi\u00f9 alto tasso di disoccupazione sono rispettivamente la Grecia (21,7 per cento in aprile 2017) e la Spagna (17,1 per cento).",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 72,
+                "end": 78
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Unemployment",
+                "begin": 33,
+                "end": 47
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/April",
+                "begin": 98,
+                "end": 104
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Percentage",
+                "begin": 129,
+                "end": 138
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Spagna",
+                "begin": 116,
+                "end": 122
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Percentuale",
+                "begin": 85,
+                "end": 94
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/2017",
+                "begin": 105,
+                "end": 109
+            }
+        ]
+    },
+    {
+        "sentence": "Fra i paesi d'Europa occidentale, il Belgio, con 40 jihadisti per milione di abitanti, seguito dalla Svezia (32) e dalla Danimarca (27).",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/1,000,000",
+                "begin": 66,
+                "end": 73
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Paese_(area_geografica)",
+                "begin": 6,
+                "end": 11
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Denmark",
+                "begin": 121,
+                "end": 130
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Jihadism",
+                "begin": 52,
+                "end": 61
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Belgium",
+                "begin": 37,
+                "end": 43
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Svezia",
+                "begin": 101,
+                "end": 107
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Western_Europe",
+                "begin": 14,
+                "end": 32
+            }
+        ]
+    },
+    {
+        "sentence": "Una grande parte dei vecchi partigiani che hanno votato \"No\" ai francesi alla Costituzione europea nel 2005 diventa ora europei (fatta eccezione per l\u2019estrema destra in Europe) ha capito che l\u2019ombrello statunitense non \u00e8 pi\u00f9 garantito e che Donald Trump non ha dichiarato una guerra commerciale solo contro la Cina e il Messico ma anche contro l\u2019Europa, che dal canto suo deve imparare a difendersi militarmente e commercialmente.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Military",
+                "begin": 399,
+                "end": 411
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 346,
+                "end": 352
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2005",
+                "begin": 103,
+                "end": 107
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 28,
+                "end": 38
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Commerce",
+                "begin": 283,
+                "end": 294
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 169,
+                "end": 175
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 120,
+                "end": 127
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Messico",
+                "begin": 320,
+                "end": 327
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Costituzione_europea",
+                "begin": 78,
+                "end": 98
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Far-right_politics",
+                "begin": 151,
+                "end": 165
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/War",
+                "begin": 276,
+                "end": 282
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Francia",
+                "begin": 64,
+                "end": 72
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 241,
+                "end": 253
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Commerce",
+                "begin": 414,
+                "end": 429
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 193,
+                "end": 214
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/China",
+                "begin": 310,
+                "end": 314
+            }
+        ]
+    },
+    {
+        "sentence": "Le grinfie.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Artiglio",
+                "begin": 3,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "sentence": "Donald Tusk ha cominciato il suo mandato alla presidenza del Consiglio europeo, Gazeta Wyborcza fa l\u2019elenco delle principali sfide che aspettano l\u2019ex premier minister polacco.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Mandato_elettorale",
+                "begin": 33,
+                "end": 40
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 0,
+                "end": 11
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 61,
+                "end": 70
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Polonia",
+                "begin": 167,
+                "end": 174
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/President",
+                "begin": 46,
+                "end": 56
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Primo_ministro_della_Polonia",
+                "begin": 150,
+                "end": 174
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Prime_Minister",
+                "begin": 150,
+                "end": 166
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/President_of_the_European_Council",
+                "begin": 46,
+                "end": 78
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Ministro",
+                "begin": 158,
+                "end": 166
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Council",
+                "begin": 61,
+                "end": 78
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Gazeta_Wyborcza",
+                "begin": 80,
+                "end": 95
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 71,
+                "end": 78
+            }
+        ]
+    },
+    {
+        "sentence": "L'accordo specifica anche che la menzione di \"un'unione sempre pi\u00f9 stretta\" nei trattati \"non equivale all'obiettivo dell'integrazione politica\".",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Treatise",
+                "begin": 80,
+                "end": 88
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Politics",
+                "begin": 135,
+                "end": 143
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Goal",
+                "begin": 107,
+                "end": 116
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_integration",
+                "begin": 122,
+                "end": 134
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 49,
+                "end": 55
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Metodo_del_consenso",
+                "begin": 2,
+                "end": 9
+            }
+        ]
+    },
+    {
+        "sentence": "\u201cL\u2019Unione \u00e8 stata costruita anche per battere gli Stati Uniti sul piano commerciale, ok?\u201d, ha dichiarato in un\u2019intervista concessa al Times e alla Bild.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/The_Times",
+                "begin": 134,
+                "end": 139
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 3,
+                "end": 9
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Commercio",
+                "begin": 72,
+                "end": 83
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 50,
+                "end": 61
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Bild",
+                "begin": 147,
+                "end": 151
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 111,
+                "end": 121
+            }
+        ]
+    },
+    {
+        "sentence": "Secondo il giornale di Bruxelles, Tsipras \u00e8 \u201cun potenziale alleato di Putin\u201d : l\u2019ambasciatore russo \u00e8 stata la prima persona che ha incontrato dopo essere stato nominato primo ministro luned\u00ec in Grecia.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 195,
+                "end": 201
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Prime_Minister",
+                "begin": 170,
+                "end": 184
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ambassador",
+                "begin": 81,
+                "end": 93
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Person",
+                "begin": 117,
+                "end": 124
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Alleanza",
+                "begin": 59,
+                "end": 66
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giornale",
+                "begin": 11,
+                "end": 19
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Alex%C4%ABs_Tsipras",
+                "begin": 34,
+                "end": 41
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Vladimir_Putin",
+                "begin": 70,
+                "end": 75
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Luned%C3%AC",
+                "begin": 185,
+                "end": 191
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Minister_(government)",
+                "begin": 176,
+                "end": 184
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 94,
+                "end": 99
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Regione_di_Bruxelles-Capitale",
+                "begin": 23,
+                "end": 32
+            }
+        ]
+    },
+    {
+        "sentence": "Dall'inizio dell'anno oltre 564000 persone sono arrivate in Europa attraversando il Mediterraneo e quasi tremila sono morte secondo l'Organizzazione internazionale delle migrazioni.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Anno",
+                "begin": 17,
+                "end": 21
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Mar_Mediterraneo",
+                "begin": 84,
+                "end": 96
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Popolo",
+                "begin": 35,
+                "end": 42
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Organization",
+                "begin": 134,
+                "end": 148
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Morte",
+                "begin": 118,
+                "end": 123
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Immigrazione",
+                "begin": 170,
+                "end": 180
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 60,
+                "end": 66
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/International_Organization_for_Migration",
+                "begin": 134,
+                "end": 180
+            }
+        ]
+    },
+    {
+        "sentence": " \"Sophia\" \u00e8 dotata di nove navi e 1.300 uomini in totale e prende il nome da una bambina nata mentre attraversava il Mediterraneo.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+                "begin": 117,
+                "end": 129
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Name",
+                "begin": 69,
+                "end": 73
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Uomo_(genere)",
+                "begin": 40,
+                "end": 46
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Girl",
+                "begin": 81,
+                "end": 88
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ship",
+                "begin": 27,
+                "end": 31
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/9",
+                "begin": 22,
+                "end": 26
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Operazione_Sophia",
+                "begin": 2,
+                "end": 8
+            }
+        ]
+    },
+    {
+        "sentence": "Fari\u00f1as ha promesso che continuer\u00e0 la sua battaglia, lo scorso gennaio port\u00f2 avanti uno sciopero della fame per 135 giorni per ottenere il rilascio di 42 membri dell'opposizione cubana.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Cuba",
+                "begin": 178,
+                "end": 184
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giorno",
+                "begin": 116,
+                "end": 122
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+                "begin": 0,
+                "end": 7
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Sciopero_della_fame",
+                "begin": 88,
+                "end": 107
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/January",
+                "begin": 63,
+                "end": 70
+            }
+        ]
+    },
+    {
+        "sentence": "All'operazione Triton di sorveglianza delle rotte migratorie verso l'Italia si \u00e8 aggiunta il 7 ottobre la missione \"Sophia\".",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/7_ottobre",
+                "begin": 93,
+                "end": 102
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/October",
+                "begin": 95,
+                "end": 102
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Italia",
+                "begin": 69,
+                "end": 75
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Imbarcazione",
+                "begin": 116,
+                "end": 122
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Immigration",
+                "begin": 50,
+                "end": 60
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Operazione_Triton",
+                "begin": 4,
+                "end": 21
+            }
+        ]
+    },
+    {
+        "sentence": "Ma prevedendo il trionfo della Brexit e lo scioglimento dell\u2019Unione e soprattutto definendo la Nato \u201cobsoleta\u201d, si \u00e8 chiaramente sparato ai piedi.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Piede",
+                "begin": 140,
+                "end": 145
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Brexit",
+                "begin": 31,
+                "end": 37
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 61,
+                "end": 67
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/NATO",
+                "begin": 95,
+                "end": 99
+            }
+        ]
+    },
+    {
+        "sentence": "I dati su cui si basa sono forniti da Eurostat.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Data",
+                "begin": 2,
+                "end": 6
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Eurostat",
+                "begin": 38,
+                "end": 46
+            }
+        ]
+    },
+    {
+        "sentence": "Si creerebbe un precedente per gli altri membri dell\u2019Ue e portare a \u201cun\u2019erosione delle conquiste dell\u2019integrazione europea\u201d.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 53,
+                "end": 55
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union",
+                "begin": 41,
+                "end": 55
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 115,
+                "end": 122
+            }
+        ]
+    },
+    {
+        "sentence": "Con le sue posizioni nette e il suo atteggiamento di sfida nei confronti delle altre potenze il ribollente uomo d'affari che si installa questo 20 gennaio alla Casa bianca si \u00e8 messo contro la maggior parte dei paesi europei.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/White_House",
+                "begin": 160,
+                "end": 171
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Power_(international_relations)",
+                "begin": 85,
+                "end": 92
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Businessperson",
+                "begin": 107,
+                "end": 120
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 211,
+                "end": 224
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/January",
+                "begin": 147,
+                "end": 154
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Maggioranza",
+                "begin": 193,
+                "end": 200
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 217,
+                "end": 224
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Spettro_politico",
+                "begin": 11,
+                "end": 20
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Paese_(area_geografica)",
+                "begin": 211,
+                "end": 216
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/January_20",
+                "begin": 144,
+                "end": 154
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Atteggiamento",
+                "begin": 36,
+                "end": 49
+            }
+        ]
+    },
+    {
+        "sentence": "Consiste nell'intercettare nelle acque internazionali i contrabbando, nell'arrestarli, inseguirli e fermare le loro barche, usando la forza se occorre. ",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Contrabbando",
+                "begin": 56,
+                "end": 68
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/International_waters",
+                "begin": 33,
+                "end": 53
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Imbarcazione",
+                "begin": 116,
+                "end": 122
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Force_(law)",
+                "begin": 134,
+                "end": 139
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Acqua",
+                "begin": 33,
+                "end": 38
+            }
+        ]
+    },
+    {
+        "sentence": "Secondo gli ultimi dati resi pubblici da Eurostat il tasso di disoccupazione nell\u2019Ue era del 7,7 per cento a giugno 2017, lo stesso livello di maggio e in calo rispetto all\u20198,6 per cento di giugno 2016.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 82,
+                "end": 84
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Eurostat",
+                "begin": 41,
+                "end": 49
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giugno",
+                "begin": 109,
+                "end": 115
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/May",
+                "begin": 143,
+                "end": 149
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Percentuale",
+                "begin": 177,
+                "end": 186
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Percentage",
+                "begin": 97,
+                "end": 106
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Unemployment",
+                "begin": 62,
+                "end": 76
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2017",
+                "begin": 116,
+                "end": 120
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giugno",
+                "begin": 190,
+                "end": 196
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2016",
+                "begin": 197,
+                "end": 201
+            }
+        ]
+    },
+    {
+        "sentence": "Per l'Unione europea, Donald Trump \u00e8 nientemeno che una benedizione, dato che, in poche frasi, e con notevole efficacia, ha reso pi\u00f9 stretti che da molto tempo.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Blessing",
+                "begin": 56,
+                "end": 67
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 6,
+                "end": 20
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Tempo",
+                "begin": 154,
+                "end": 159
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Donald_Trump",
+                "begin": 22,
+                "end": 34
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Efficiency",
+                "begin": 110,
+                "end": 119
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Frase",
+                "begin": 88,
+                "end": 93
+            }
+        ]
+    },
+    {
+        "sentence": "Il quotidiano francese ricorda che il programma \u201c\u00e8 andato in orbita\u201d 19 anni dopo il lancio del programma Ariane 5, a Roma.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Year",
+                "begin": 72,
+                "end": 76
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giornale",
+                "begin": 3,
+                "end": 13
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Francia",
+                "begin": 14,
+                "end": 22
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Orbit",
+                "begin": 61,
+                "end": 67
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ariane_5",
+                "begin": 106,
+                "end": 114
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Rome",
+                "begin": 118,
+                "end": 122
+            }
+        ]
+    },
+    {
+        "sentence": "Tranne tra i leader populisti, come l'ungherese Viktor Orb\u00e1n, l'olandese Geert Wilders, la tedesca Frauke Petry e la francese Marine Le Pen, per i quali l'elezione di Trump \u00e8 segno di una tendenza di fondo in occidente, e della quale puntano a trarre vantaggio nelle prossime elezioni nei rispettivi paesi.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Geert_Wilders",
+                "begin": 73,
+                "end": 86
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Dutch_people",
+                "begin": 64,
+                "end": 72
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Leadership",
+                "begin": 13,
+                "end": 19
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/French",
+                "begin": 117,
+                "end": 125
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Paese_(area_geografica)",
+                "begin": 300,
+                "end": 305
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Hungary",
+                "begin": 38,
+                "end": 47
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Viktor_Orb%C3%A1n",
+                "begin": 48,
+                "end": 60
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Elezione",
+                "begin": 155,
+                "end": 163
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Marine_Le_Pen",
+                "begin": 126,
+                "end": 139
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Tedeschi",
+                "begin": 91,
+                "end": 98
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Frauke_Petry",
+                "begin": 99,
+                "end": 111
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Donald_Trump",
+                "begin": 167,
+                "end": 172
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Presidential_election",
+                "begin": 276,
+                "end": 284
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Populism",
+                "begin": 20,
+                "end": 29
+            }
+        ]
+    },
+    {
+        "sentence": "Dinanzi al blocco di Bruxelles, Ttip hanno lanciato una petizione che ha raccolto oltre 850mila firme contro il Ttip in meno di un mese.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Firma",
+                "begin": 96,
+                "end": 101
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Month",
+                "begin": 131,
+                "end": 135
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Petizione",
+                "begin": 56,
+                "end": 65
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Brussels",
+                "begin": 21,
+                "end": 30
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Blocco_navale",
+                "begin": 11,
+                "end": 17
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Transatlantic_Trade_and_Investment_Partnership",
+                "begin": 32,
+                "end": 36
+            }
+        ]
+    },
+    {
+        "sentence": "Il quotidiano russo Kommersant aveva riferito il giorno prima che Mosca pensava di fornire gas alla Grecia a prezzo scontato.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Moscow",
+                "begin": 66,
+                "end": 71
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kommersant",
+                "begin": 20,
+                "end": 30
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Russia",
+                "begin": 14,
+                "end": 19
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Grecia",
+                "begin": 100,
+                "end": 106
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Gas",
+                "begin": 91,
+                "end": 94
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Price",
+                "begin": 109,
+                "end": 115
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giornale",
+                "begin": 3,
+                "end": 13
+            }
+        ]
+    },
+    {
+        "sentence": "Tra questi la Francia, con 1.200 combattenti, seguita dalla Turchia (1.000) e dal Regno Unito (600).",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_Kingdom",
+                "begin": 82,
+                "end": 93
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/France",
+                "begin": 14,
+                "end": 21
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Combatant",
+                "begin": 33,
+                "end": 44
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Turkey",
+                "begin": 60,
+                "end": 67
+            }
+        ]
+    },
+    {
+        "sentence": "I rappresentanti dei 20 paesi dell\u2019Agenzia spaziale europea hanno concluso il 2 dicembre a Lussemburgo, un accordo sulla costruzione di un nuovo razzo, Ariane 6, dopo l\u2019adesione della Germania, che sosteneva fino a poco tempo fa la necessit\u00e0 di \u201cun\u2019evoluzione progressiva di Ariane 5\u201d, scrive Le Monde.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Metodo_del_consenso",
+                "begin": 107,
+                "end": 114
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Agenzia_Spaziale_Europea",
+                "begin": 35,
+                "end": 59
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Le_Monde",
+                "begin": 293,
+                "end": 301
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/2_dicembre",
+                "begin": 78,
+                "end": 88
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Rocket",
+                "begin": 145,
+                "end": 150
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/December",
+                "begin": 80,
+                "end": 88
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Germany",
+                "begin": 184,
+                "end": 192
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ariane_6",
+                "begin": 152,
+                "end": 160
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Evolution_(term)",
+                "begin": 249,
+                "end": 259
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Ariane_5",
+                "begin": 275,
+                "end": 283
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Country",
+                "begin": 24,
+                "end": 29
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Luxembourg",
+                "begin": 91,
+                "end": 102
+            }
+        ]
+    },
+    {
+        "sentence": "Trump ne \u00e8 talmente irritato da aver dichiarato: \u201cNon mi interessa sapere se rester\u00e0 unita o no\u201d.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 0,
+                "end": 5
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 20,
+                "end": 28
+            }
+        ]
+    },
+    {
+        "sentence": "Secondo gli ultimi dati di Eurostat la disoccupazione ha raggiunto il suo livello pi\u00f9 basso da dicembre 2008 per il secondo mese di fila a giugno.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Unemployment",
+                "begin": 39,
+                "end": 53
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/December",
+                "begin": 95,
+                "end": 103
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/2008",
+                "begin": 104,
+                "end": 108
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giugno",
+                "begin": 139,
+                "end": 145
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Mese",
+                "begin": 124,
+                "end": 128
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Eurostat",
+                "begin": 27,
+                "end": 35
+            }
+        ]
+    },
+    {
+        "sentence": "Eurostat stimain 18,725 milioni il numero delle donne e degli uomini disoccupati nei 28 paesi dell\u2019Ue nel giugno 2017, dei quali 14,718 milioni nell\u2019eurozona.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Eurostat",
+                "begin": 0,
+                "end": 8
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Disoccupazione",
+                "begin": 69,
+                "end": 80
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Donna",
+                "begin": 48,
+                "end": 53
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 99,
+                "end": 101
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/1,000,000",
+                "begin": 24,
+                "end": 31
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/1,000,000",
+                "begin": 136,
+                "end": 143
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2017",
+                "begin": 113,
+                "end": 117
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Zona_euro",
+                "begin": 149,
+                "end": 157
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Uomo_(genere)",
+                "begin": 62,
+                "end": 68
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/June",
+                "begin": 106,
+                "end": 112
+            }
+        ]
+    },
+    {
+        "sentence": "Nel complesso, nei primi sei mesi dell'anno pi\u00f9 di 400,000 persone hanno chiesto asilo in Europa.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 90,
+                "end": 96
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Person",
+                "begin": 59,
+                "end": 66
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Mese",
+                "begin": 29,
+                "end": 33
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Anno",
+                "begin": 39,
+                "end": 43
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Diritto_di_asilo",
+                "begin": 81,
+                "end": 86
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/6",
+                "begin": 25,
+                "end": 28
+            }
+        ]
+    },
+    {
+        "sentence": "L'organizzazione Stato islamico (ISIS) ha previsto di conquistare la Libia e utilizzare il paese come porta per attaccare Europa, rivela il quotidiano britannico The Daily Telegraph, citando dei documenti di propaganda dell'organizzazione terroristica scoperti dal anti estremisti Quilliam.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 122,
+                "end": 128
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Organizzazione",
+                "begin": 2,
+                "end": 16
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Islam",
+                "begin": 23,
+                "end": 31
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Extremism",
+                "begin": 270,
+                "end": 280
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Document",
+                "begin": 195,
+                "end": 204
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Libia",
+                "begin": 69,
+                "end": 74
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant",
+                "begin": 33,
+                "end": 37
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Paese_(area_geografica)",
+                "begin": 91,
+                "end": 96
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giornale",
+                "begin": 140,
+                "end": 150
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Great_Britain",
+                "begin": 151,
+                "end": 161
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Propaganda",
+                "begin": 208,
+                "end": 218
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Gate",
+                "begin": 102,
+                "end": 107
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/State_(polity)",
+                "begin": 17,
+                "end": 22
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/The_Daily_Telegraph",
+                "begin": 162,
+                "end": 181
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant",
+                "begin": 17,
+                "end": 31
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Quilliam_(think_tank)",
+                "begin": 281,
+                "end": 289
+            }
+        ]
+    },
+    {
+        "sentence": "Effettivamente, creando il mercato comune gli europei hanno voluto affermarsi sulla scena economica internazionale e sono riusciti a trasformare l\u2019Unione nella seconda economica mondiale.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 46,
+                "end": 53
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Comunit%C3%A0_economica_europea",
+                "begin": 27,
+                "end": 41
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Economics",
+                "begin": 168,
+                "end": 177
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/International_economics",
+                "begin": 90,
+                "end": 114
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Mondo",
+                "begin": 178,
+                "end": 186
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Economics",
+                "begin": 90,
+                "end": 99
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 147,
+                "end": 153
+            }
+        ]
+    },
+    {
+        "sentence": "[\u2026] Per fortuna Berlino non \u00e8 al momento favorevole a un ammorbidimento delle sanzioni nei confronti di Mosca, il ch\u00e9 rende pi\u00f9 facile il lavoro di Tusk.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Sanctions_(law)",
+                "begin": 78,
+                "end": 86
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Work_(project_management)",
+                "begin": 138,
+                "end": 144
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 148,
+                "end": 152
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Berlin",
+                "begin": 16,
+                "end": 23
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Moscow",
+                "begin": 104,
+                "end": 109
+            }
+        ]
+    },
+    {
+        "sentence": "Le sfide di Donald Tusk.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 12,
+                "end": 23
+            }
+        ]
+    },
+    {
+        "sentence": "A parte l'Italia e Malta, tutti i paesi dell'Europa ospitano invece un basso numero di richiedenti asilo \u2013 in alcuni casi ne ospitano talmente pochi che nella mappa i paesi quasi scompaiono.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Map",
+                "begin": 159,
+                "end": 164
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Asylum_seeker",
+                "begin": 87,
+                "end": 104
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 45,
+                "end": 51
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Malta",
+                "begin": 19,
+                "end": 24
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Numero",
+                "begin": 77,
+                "end": 83
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Right_of_asylum",
+                "begin": 99,
+                "end": 104
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Paese_(area_geografica)",
+                "begin": 34,
+                "end": 39
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Italy",
+                "begin": 10,
+                "end": 16
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Paese_(area_geografica)",
+                "begin": 167,
+                "end": 172
+            }
+        ]
+    },
+    {
+        "sentence": "Questa vignetta di Marilena Nardi ha vinto il primo premio per la miglior vignetta sull'Europa pubblicata in Italia, consegnato in 2015 durante il festival di Internazionale a Ferrara, il 4 ottobre.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/NotInLexico",
+                "begin": 19,
+                "end": 33
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Illustrazione",
+                "begin": 7,
+                "end": 15
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 88,
+                "end": 94
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Italy",
+                "begin": 109,
+                "end": 115
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/2015",
+                "begin": 131,
+                "end": 135
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Festival",
+                "begin": 147,
+                "end": 155
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/4_ottobre",
+                "begin": 188,
+                "end": 197
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ferrara",
+                "begin": 176,
+                "end": 183
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Illustrazione",
+                "begin": 74,
+                "end": 82
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Prize",
+                "begin": 52,
+                "end": 58
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/October",
+                "begin": 190,
+                "end": 197
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 159,
+                "end": 173
+            }
+        ]
+    },
+    {
+        "sentence": "La mappa in piccolo rappresenta i paesi in proporzione alla loro popolazione.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Map",
+                "begin": 3,
+                "end": 8
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Paese_(area_geografica)",
+                "begin": 34,
+                "end": 39
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Population",
+                "begin": 65,
+                "end": 76
+            }
+        ]
+    },
+    {
+        "sentence": " \u201cTsipras critica il presidente del Consiglio europeo Donald Tusk\u201d.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 46,
+                "end": 53
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/President",
+                "begin": 21,
+                "end": 31
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 54,
+                "end": 65
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Alex%C4%ABs_Tsipras",
+                "begin": 2,
+                "end": 9
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Council",
+                "begin": 36,
+                "end": 53
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Presidente_del_Consiglio_europeo",
+                "begin": 21,
+                "end": 53
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 36,
+                "end": 45
+            }
+        ]
+    },
+    {
+        "sentence": "La rivoluzione silenziosa del Ttip.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Trattato_transatlantico_sul_commercio_e_gli_investimenti",
+                "begin": 30,
+                "end": 34
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Rivoluzione",
+                "begin": 3,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "sentence": "Il problema \u00e8 l'amante di Twitter ha alzato il tono anche con Pechino, dove ormai si parla di prendere \u201ccontromisure forti\u201d (azioni militari) se il presidente eletto continuer\u00e0 a giocare con la questione di Taiwan.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Militare",
+                "begin": 132,
+                "end": 140
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Countermeasure",
+                "begin": 104,
+                "end": 116
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Twitter",
+                "begin": 26,
+                "end": 33
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Taiwan",
+                "begin": 207,
+                "end": 213
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Operazione_militare",
+                "begin": 125,
+                "end": 140
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Beijing",
+                "begin": 62,
+                "end": 69
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Sonorizzazione_(fonetica)",
+                "begin": 47,
+                "end": 51
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Question",
+                "begin": 194,
+                "end": 203
+            }
+        ]
+    },
+    {
+        "sentence": "Il premier ministro greco Alexis Tsipras si \u00e8 recato a Mosca l'8 aprile per una visita di due giorno.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/2_(numero)",
+                "begin": 90,
+                "end": 93
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Mosca_(Russia)",
+                "begin": 55,
+                "end": 60
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Prime_minister",
+                "begin": 3,
+                "end": 19
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/April_8",
+                "begin": 63,
+                "end": 71
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 80,
+                "end": 86
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/April",
+                "begin": 65,
+                "end": 71
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 3,
+                "end": 25
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Day",
+                "begin": 94,
+                "end": 100
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 20,
+                "end": 25
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Ministro",
+                "begin": 11,
+                "end": 19
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Alex%C4%ABs_Tsipras",
+                "begin": 26,
+                "end": 40
+            }
+        ]
+    },
+    {
+        "sentence": "Luned\u00ec, Merkel \u00e8 volata a Washington per coordinare l'iniziativa dell'UE con il suo partner americano.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Angela_Merkel",
+                "begin": 8,
+                "end": 14
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Luned%C3%AC",
+                "begin": 0,
+                "end": 6
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Business_partner",
+                "begin": 84,
+                "end": 91
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 70,
+                "end": 72
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Washington",
+                "begin": 26,
+                "end": 36
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 92,
+                "end": 101
+            }
+        ]
+    },
+    {
+        "sentence": "A titolo di paragone, nel giugno 2017 il tasso di disoccupazione negli Stati Uniti era del 4,4 per cento, rispetto al 4,3 per cento di maggio 2017 e al 4,9 per cento di giugno 2016.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Unemployment",
+                "begin": 50,
+                "end": 64
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Percentuale",
+                "begin": 122,
+                "end": 131
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2017",
+                "begin": 33,
+                "end": 37
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Percentage",
+                "begin": 156,
+                "end": 165
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 71,
+                "end": 82
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2017",
+                "begin": 142,
+                "end": 146
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/June",
+                "begin": 169,
+                "end": 175
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Maggio",
+                "begin": 135,
+                "end": 141
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/June",
+                "begin": 26,
+                "end": 32
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Percentage",
+                "begin": 95,
+                "end": 104
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2016",
+                "begin": 176,
+                "end": 180
+            }
+        ]
+    },
+    {
+        "sentence": "Vecchia Europa.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 8,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "sentence": "Il premio \u00e8 andato al quarantottenne dissidente cubano Guillermo Fari\u00f1as, cui le autorit\u00e0 cubane hanno impedito di recarsi a Strasburgo.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Cuba",
+                "begin": 90,
+                "end": 96
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 3,
+                "end": 9
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Cuba",
+                "begin": 48,
+                "end": 54
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 37,
+                "end": 54
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 55,
+                "end": 72
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Strasburgo",
+                "begin": 125,
+                "end": 135
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Autorit%C3%A0",
+                "begin": 81,
+                "end": 89
+            }
+        ]
+    },
+    {
+        "sentence": "L'accordo deve essere approvato dall'UE durante un vertice del 18 febbraio.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Metodo_del_consenso",
+                "begin": 2,
+                "end": 9
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/David_Cameron",
+                "begin": 51,
+                "end": 58
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/18_febbraio",
+                "begin": 63,
+                "end": 74
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/February",
+                "begin": 66,
+                "end": 74
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 37,
+                "end": 39
+            }
+        ]
+    },
+    {
+        "sentence": "La mappa \u00e8 stata pubblicata dal geografo Benjamin Hennig sul suo sito, su cui \u00e8 disponibile anche una mappa analoga relativa all'anno 2014.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Anno",
+                "begin": 129,
+                "end": 133
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 32,
+                "end": 40
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/2014",
+                "begin": 134,
+                "end": 138
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Map",
+                "begin": 3,
+                "end": 8
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Mappa",
+                "begin": 102,
+                "end": 107
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/NotInLexico",
+                "begin": 41,
+                "end": 56
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Website",
+                "begin": 65,
+                "end": 69
+            }
+        ]
+    },
+    {
+        "sentence": "Questa mappa, realizzata da Radio Free Europe/Radio Liberty all'indomani degli attentati rivendicati dall'organizzazione Stato islamico e che hanno provocato almeno 129 morti a Parigi e nei suoi sobborghi il 13 novembre, indica i paesi dei combattenti stranieri in Iraq e in Siria, e in particolare Europa.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Country",
+                "begin": 230,
+                "end": 235
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 39,
+                "end": 45
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Parigi",
+                "begin": 177,
+                "end": 183
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Suburb",
+                "begin": 195,
+                "end": 204
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Radio_Free_Europe",
+                "begin": 28,
+                "end": 59
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Iraq",
+                "begin": 265,
+                "end": 269
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Offensive_(military)",
+                "begin": 79,
+                "end": 88
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Siria",
+                "begin": 275,
+                "end": 280
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Libert%C3%A0",
+                "begin": 52,
+                "end": 59
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 299,
+                "end": 305
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Radio",
+                "begin": 28,
+                "end": 33
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Organizzazione",
+                "begin": 106,
+                "end": 120
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Combattenti_ribelli_stranieri_nella_guerra_civile_siriana",
+                "begin": 240,
+                "end": 280
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Mappa",
+                "begin": 7,
+                "end": 12
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Morte",
+                "begin": 169,
+                "end": 174
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Stato_Islamico",
+                "begin": 121,
+                "end": 135
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Radio",
+                "begin": 46,
+                "end": 51
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Combatant",
+                "begin": 240,
+                "end": 251
+            }
+        ]
+    },
+    {
+        "sentence": "Dopo l\u2019allargamento dell\u2019Unione, l\u2019attuazione di politiche comuni basate sul taglio alla spesa pubblica e il divorzio tra l\u2019Europa e gli europei, i cittadini del vecchio continente non avevano mai condiviso un simile disprezzo e un simile desiderio di raccogliere il guanto di sfida.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 25,
+                "end": 31
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Divorce",
+                "begin": 109,
+                "end": 117
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Desire",
+                "begin": 239,
+                "end": 248
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Allargamento_dell%27Unione_europea",
+                "begin": 7,
+                "end": 31
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Cittadino",
+                "begin": 148,
+                "end": 157
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 49,
+                "end": 58
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 137,
+                "end": 144
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Glove",
+                "begin": 267,
+                "end": 273
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 124,
+                "end": 130
+            }
+        ]
+    },
+    {
+        "sentence": "Il quotidiano afferma che questi documenti contengono i piani di ISIS per 'inondare il paesi africani di combattenti provenienti dalla Siria e dall'Iraq, che attraverserebbero poi il Mediterraneo spacciandosi per migranti.'",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Documento",
+                "begin": 33,
+                "end": 42
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Country",
+                "begin": 87,
+                "end": 92
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Unlawful_combatant",
+                "begin": 105,
+                "end": 116
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Syria",
+                "begin": 135,
+                "end": 140
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giornale",
+                "begin": 3,
+                "end": 13
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+                "begin": 183,
+                "end": 195
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Migrazione_umana",
+                "begin": 213,
+                "end": 221
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Stato_Islamico",
+                "begin": 65,
+                "end": 69
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Africa",
+                "begin": 93,
+                "end": 101
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 56,
+                "end": 61
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Iraq",
+                "begin": 148,
+                "end": 152
+            }
+        ]
+    },
+    {
+        "sentence": " \u201cAlcune organizzazioni se le prendono con la Commissione europea, che accusano di \u2018soffocare le voci\u2019 e si oppongono all\u2019accordo di libero scambio con gli Stati Uniti\u201d, riferisce i.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 58,
+                "end": 65
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/I_(newspaper)",
+                "begin": 180,
+                "end": 181
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Consensus_decision-making",
+                "begin": 122,
+                "end": 129
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 46,
+                "end": 65
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 156,
+                "end": 167
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Organization",
+                "begin": 9,
+                "end": 23
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Human_voice",
+                "begin": 97,
+                "end": 101
+            }
+        ]
+    },
+    {
+        "sentence": "Il Partenariato transatlantico di commercio e d\u2019investimento (Ttip in inglese) \u00e8 un accordo commerciale in corso di negoziato tra l\u2019Ue e gli Stati Uniti che \u201cprevede di armonizzare le legge di entrambe le parti dell'Atlantico per permettere alle grandi compagnia europee e americane di investire e di aumentare i loro profitti in seno a un mercato pi\u00f9 ampio\u201d, ricorda il giornale.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Legge_(diritto)",
+                "begin": 184,
+                "end": 189
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giornale",
+                "begin": 371,
+                "end": 379
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 132,
+                "end": 134
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Negoziato",
+                "begin": 116,
+                "end": 125
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Mercato",
+                "begin": 340,
+                "end": 347
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Trattato_transatlantico_sul_commercio_e_gli_investimenti",
+                "begin": 62,
+                "end": 66
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Statunitensi",
+                "begin": 273,
+                "end": 282
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Profit_(economics)",
+                "begin": 318,
+                "end": 326
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Trattato_transatlantico_sul_commercio_e_gli_investimenti",
+                "begin": 3,
+                "end": 60
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 141,
+                "end": 152
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Commerce",
+                "begin": 34,
+                "end": 43
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 216,
+                "end": 225
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Compagnia",
+                "begin": 253,
+                "end": 262
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Accordo_delle_parti",
+                "begin": 84,
+                "end": 91
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 263,
+                "end": 270
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Commerce",
+                "begin": 92,
+                "end": 103
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/English_language",
+                "begin": 70,
+                "end": 77
+            }
+        ]
+    },
+    {
+        "sentence": "La vittoria de Donald Trump nelle elezioni presidenziali americane, l'8 novembre, dopo una campagna all'insegna della provocazione e dello scontro, ha suscitato un'ondata di preoccupazione in Europa.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Campagna_elettorale",
+                "begin": 91,
+                "end": 99
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 174,
+                "end": 188
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Wave",
+                "begin": 164,
+                "end": 170
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 192,
+                "end": 198
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 118,
+                "end": 130
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 3,
+                "end": 11
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America",
+                "begin": 34,
+                "end": 66
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 15,
+                "end": 27
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Presidential_election",
+                "begin": 34,
+                "end": 56
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Novembre",
+                "begin": 72,
+                "end": 80
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 57,
+                "end": 66
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Elezione",
+                "begin": 34,
+                "end": 42
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/November_8",
+                "begin": 70,
+                "end": 80
+            }
+        ]
+    },
+    {
+        "sentence": "Sono gran parte degli stati collocati al centro dell'Europa: la Germania prima di tutti, ma anche la Svizzera, l'Austria e l'Ungheria, i Paesi del Benelux e la Svezia.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Centro_(geometria)",
+                "begin": 41,
+                "end": 47
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Austria",
+                "begin": 113,
+                "end": 120
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Hungary",
+                "begin": 125,
+                "end": 133
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Switzerland",
+                "begin": 101,
+                "end": 109
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 53,
+                "end": 59
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Benelux",
+                "begin": 147,
+                "end": 154
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Paese_(area_geografica)",
+                "begin": 137,
+                "end": 142
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Germany",
+                "begin": 64,
+                "end": 72
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Svezia",
+                "begin": 160,
+                "end": 166
+            }
+        ]
+    },
+    {
+        "sentence": "Rispetto a un anno fa il tasso di disoccupazione \u00e8 calato in tutti gli stati membri per i quali i dati possono essere paragonati nel tempo, salvo per l\u2019Estonia, dove \u00e8 salito dal 6,5 per cento di maggio 2016 a 6,9 per cento del maggio 2017.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/May",
+                "begin": 196,
+                "end": 202
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Estonia",
+                "begin": 152,
+                "end": 159
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Unemployment",
+                "begin": 34,
+                "end": 48
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/2017",
+                "begin": 235,
+                "end": 239
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Percentage",
+                "begin": 214,
+                "end": 223
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Year",
+                "begin": 14,
+                "end": 18
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Stati_membri_dell%27Unione_europea",
+                "begin": 71,
+                "end": 83
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Dato",
+                "begin": 98,
+                "end": 102
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/2016",
+                "begin": 203,
+                "end": 207
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Percentage",
+                "begin": 183,
+                "end": 192
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Maggio",
+                "begin": 228,
+                "end": 234
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Time",
+                "begin": 133,
+                "end": 138
+            }
+        ]
+    },
+    {
+        "sentence": "I tassi di disoccupazione pi\u00f9 bassi fra i paesi membri nel giugno 2017 sono stati registrati in Repubblica ceca (2,9 per cento), Germania (3,8 per cento) e Malta (4,1 per cento).",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Percentuale",
+                "begin": 167,
+                "end": 176
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Percentage",
+                "begin": 143,
+                "end": 152
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/June",
+                "begin": 59,
+                "end": 65
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Germany",
+                "begin": 129,
+                "end": 137
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/2017",
+                "begin": 66,
+                "end": 70
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Percentage",
+                "begin": 117,
+                "end": 126
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Malta",
+                "begin": 156,
+                "end": 161
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union",
+                "begin": 42,
+                "end": 54
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Disoccupazione",
+                "begin": 11,
+                "end": 25
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Czech_Republic",
+                "begin": 96,
+                "end": 111
+            }
+        ]
+    },
+    {
+        "sentence": "Il governo greco ha precisato che Tusk avrebbe dovuto contattare Atene prima di rendere pubblica la dichiarazione.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 34,
+                "end": 38
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 11,
+                "end": 16
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Government",
+                "begin": 3,
+                "end": 10
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Government_of_Greece",
+                "begin": 3,
+                "end": 16
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Declaration_(law)",
+                "begin": 100,
+                "end": 113
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Athens",
+                "begin": 65,
+                "end": 70
+            }
+        ]
+    },
+    {
+        "sentence": "Gli stati che appaiono pi\u00f9 grossi del normale sono quelli che ospitano un numero particolarmente alto di richiedenti asilo.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Stati_membri_dell%27Unione_europea",
+                "begin": 4,
+                "end": 9
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Rifugiato",
+                "begin": 105,
+                "end": 122
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Right_of_asylum",
+                "begin": 117,
+                "end": 122
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Number",
+                "begin": 74,
+                "end": 80
+            }
+        ]
+    },
+    {
+        "sentence": "L\u2019Europa \u00e8 pi\u00f9 compatta, ma l\u2019equilibrio mondiale \u00e8 sempre pi\u00f9 in bilico.",
+        "entities": [
+            {
+                "entity": "https://it.wikipedia.org/wiki/Europa",
+                "begin": 2,
+                "end": 8
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Mondo",
+                "begin": 41,
+                "end": 49
+            }
+        ]
+    },
+    {
+        "sentence": "Poche ore prima di marted\u00ec, Tusk aveva chiesto ai ministri degli esteri dell'Unione europea dei Ventotto di proporre nuove sanzioni contro la Russia durante l'incontro del gioved\u00ec.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Tuesday",
+                "begin": 19,
+                "end": 26
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/International_sanctions",
+                "begin": 123,
+                "end": 131
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Riunione",
+                "begin": 159,
+                "end": 167
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Unione_europea",
+                "begin": 77,
+                "end": 91
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 28,
+                "end": 32
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Gioved%C3%AC",
+                "begin": 172,
+                "end": 179
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 142,
+                "end": 148
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Consiglio_Affari_esteri",
+                "begin": 50,
+                "end": 71
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Minister_(government)",
+                "begin": 50,
+                "end": 58
+            }
+        ]
+    },
+    {
+        "sentence": "La vertice interviene dopo una serie di riunione su iniziativa di Angela Merkel e Fran\u00e7ois Hollande, che si trovavano a Kiev il 6 febbraio e a Mosca  il giorno dopo.",
+        "entities": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Meeting",
+                "begin": 40,
+                "end": 48
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/6_febbraio",
+                "begin": 128,
+                "end": 138
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Giorno",
+                "begin": 153,
+                "end": 159
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Moscow",
+                "begin": 143,
+                "end": 148
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Angela_Merkel",
+                "begin": 66,
+                "end": 79
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/Febbraio",
+                "begin": 130,
+                "end": 138
+            },
+            {
+                "entity": "https://it.wikipedia.org/wiki/NotInLexico",
+                "begin": 3,
+                "end": 10
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+                "begin": 82,
+                "end": 99
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kiev",
+                "begin": 120,
+                "end": 124
+            }
+        ]
+    }
+]
