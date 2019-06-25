@@ -1,13 +1,13 @@
 #!/bin/bash
 
-#git clone https://github.com/attardi/wikiextractor
-#cd wikiextractor
-#python3 WikiExtractor.py -o extracted_de ../../dumps/dewiki.xml.bz2
-#python3 WikiExtractor.py -o extracted_it ../../dumps/itwiki.xml.bz2
-#python3 WikiExtractor.py -o extracted_es ../../dumps/eswiki.xml.bz2
-#python3 WikiExtractor.py -o extracted_fr ../../dumps/frwiki.xml.bz2
-#python3 WikiExtractor.py -o extracted_en ../../dumps/enwiki.xml.bz2
-#cd ..
+git clone https://github.com/attardi/wikiextractor
+cd wikiextractor
+python3 WikiExtractor.py -o extracted_de ../../dumps/dewiki.xml.bz2
+python3 WikiExtractor.py -o extracted_it ../../dumps/itwiki.xml.bz2
+python3 WikiExtractor.py -o extracted_es ../../dumps/eswiki.xml.bz2
+python3 WikiExtractor.py -o extracted_fr ../../dumps/frwiki.xml.bz2
+python3 WikiExtractor.py -o extracted_en ../../dumps/enwiki.xml.bz2
+cd ..
 
 python3 dump2txt.py de &
 python3 dump2txt.py it &
