@@ -22,7 +22,7 @@ def char_tokenize(text, n_char=256, sequence=False):
         tmp = []
         for c in list(word):
             cnum = ord(c)
-            if cnum > n_char:
+            if cnum >= n_char:
                 tmp.append(1)
             else:
                 tmp.append(cnum)
