@@ -34,7 +34,7 @@ def run(lang="en"):
         "../../wiki_processor/data/marisa_data/mention_stat_{}.marisa".format(
             lang))
     kv = eenc.load(
-        "../../wiki_processor/entity_vector/{}wiki_20180420_100d.bin".format(
+        "../../wiki_processor/entity_vectors/{}wiki_20180420_100d.bin".format(
             lang))
     model = load_model("../../train/model_wiki_{}.h5".format(lang))
     word2vec = gensim.models.KeyedVectors.load(

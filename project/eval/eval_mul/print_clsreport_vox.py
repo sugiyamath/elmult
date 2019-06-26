@@ -31,6 +31,9 @@ if __name__ == "__main__":
             cand2en(cand, trie) for cand in sent["pred"]
             if cand2en(cand, trie) is not None
         ]
+
+        if not sent["true"] or not sent["pred"]:
+            continue
         
         for e in sent["true"]:
             if e in sent["pred"]:
