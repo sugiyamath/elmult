@@ -1,0 +1,2821 @@
+[
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+                "begin": 15,
+                "end": 25
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 54,
+                "end": 56
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Angela_Merkel",
+                "begin": 0,
+                "end": 6
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "the EU",
+                "word_index": [
+                    8,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Benelux",
+                "begin": 134,
+                "end": 141
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Sweden",
+                "begin": 146,
+                "end": 152
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Hungary",
+                "begin": 125,
+                "end": 132
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Austria",
+                "begin": 116,
+                "end": 123
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Germany",
+                "begin": 68,
+                "end": 75
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 55,
+                "end": 61
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Switzerland",
+                "begin": 103,
+                "end": 114
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Germany",
+                "mention": "Germany",
+                "word_index": [
+                    14,
+                    15
+                ]
+            },
+            {
+                "entity": "Austria",
+                "mention": "Austria",
+                "word_index": [
+                    23,
+                    24
+                ]
+            },
+            {
+                "entity": "Hungary",
+                "mention": "Hungary",
+                "word_index": [
+                    25,
+                    26
+                ]
+            },
+            {
+                "entity": "Benelux",
+                "mention": "Benelux",
+                "word_index": [
+                    27,
+                    28
+                ]
+            },
+            {
+                "entity": "Sweden",
+                "mention": "Sweden",
+                "word_index": [
+                    29,
+                    30
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 1,
+                "end": 8
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 51,
+                "end": 55
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Alexis_Tsipras",
+                "mention": "Tsipras",
+                "word_index": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "entity": "European_Council",
+                "mention": "European Council",
+                "word_index": [
+                    6,
+                    8
+                ]
+            },
+            {
+                "entity": "President_of_the_European_Council",
+                "mention": "President of the European Council",
+                "word_index": [
+                    3,
+                    8
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/International_Organization_for_Migration",
+                "begin": 127,
+                "end": 167
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 59,
+                "end": 65
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+                "begin": 74,
+                "end": 87
+            }
+        ],
+        "pred": [
+            {
+                "entity": "List_of_2009_box_office_number-one_films_in_South_Korea",
+                "mention": "of the year",
+                "word_index": [
+                    3,
+                    6
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 73,
+                "end": 79
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Brexit",
+                "mention": "Brexit",
+                "word_index": [
+                    9,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 20,
+                "end": 24
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Reductionism",
+                "mention": "to reduce",
+                "word_index": [
+                    15,
+                    17
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Eurostat",
+                "begin": 0,
+                "end": 8
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 60,
+                "end": 64
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Eurostat",
+                "mention": "Eurostat",
+                "word_index": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "entity": "Euro",
+                "mention": "euro",
+                "word_index": [
+                    18,
+                    19
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Belarus",
+                "begin": 102,
+                "end": 109
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ukraine",
+                "begin": 87,
+                "end": 94
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Minsk",
+                "begin": 121,
+                "end": 126
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Ukraine",
+                "mention": "Ukraine",
+                "word_index": [
+                    18,
+                    19
+                ]
+            },
+            {
+                "entity": "Belarus",
+                "mention": "Belarus",
+                "word_index": [
+                    21,
+                    22
+                ]
+            },
+            {
+                "entity": "Minsk",
+                "mention": "Minsk",
+                "word_index": [
+                    24,
+                    25
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/The_Times",
+                "begin": 119,
+                "end": 124
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Bild",
+                "begin": 129,
+                "end": 133
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 51,
+                "end": 64
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 6,
+                "end": 11
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Boxing_at_the_1990_Asian_Games",
+                "mention": "to compete",
+                "word_index": [
+                    6,
+                    8
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 20,
+                "end": 26
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+                "begin": 0,
+                "end": 17
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Fran\u00e7ois_Hollande",
+                "mention": "Hollande",
+                "word_index": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "entity": "Fran\u00e7ois_Hollande",
+                "mention": "Fran\u00e7ois Hollande",
+                "word_index": [
+                    0,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Commission",
+                "begin": 34,
+                "end": 53
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 135,
+                "end": 148
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/I_(newspaper)",
+                "begin": 159,
+                "end": 160
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Commission",
+                "mention": "Commission",
+                "word_index": [
+                    6,
+                    7
+                ]
+            },
+            {
+                "entity": "European_Commission",
+                "mention": "European Commission",
+                "word_index": [
+                    5,
+                    7
+                ]
+            },
+            {
+                "entity": "European_Commission",
+                "mention": "the European Commission",
+                "word_index": [
+                    4,
+                    7
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 10,
+                "end": 15
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Sleep",
+                "mention": "sleep",
+                "word_index": [
+                    9,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Estonia",
+                "begin": 112,
+                "end": 119
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Czech_Republic",
+                "begin": 82,
+                "end": 96
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Malta",
+                "begin": 138,
+                "end": 143
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Germany",
+                "mention": "Germany",
+                "word_index": [
+                    22,
+                    23
+                ]
+            },
+            {
+                "entity": "Malta",
+                "mention": "Malta",
+                "word_index": [
+                    28,
+                    29
+                ]
+            },
+            {
+                "entity": "Czech_Republic",
+                "mention": "Czech Republic",
+                "word_index": [
+                    15,
+                    17
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Malta",
+                "begin": 11,
+                "end": 16
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 51,
+                "end": 57
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Italy",
+                "begin": 21,
+                "end": 26
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Malta",
+                "mention": "Malta",
+                "word_index": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "entity": "Italian_unification",
+                "mention": "and Italy",
+                "word_index": [
+                    3,
+                    5
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 154,
+                "end": 159
+            }
+        ],
+        "pred": [
+            {
+                "entity": "List_of_earthquakes_in_Indonesia",
+                "mention": "second most powerful",
+                "word_index": [
+                    32,
+                    35
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_Kingdom",
+                "begin": 76,
+                "end": 78
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/France",
+                "begin": 0,
+                "end": 6
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Turkey",
+                "begin": 52,
+                "end": 58
+            }
+        ],
+        "pred": [
+            {
+                "entity": "France",
+                "mention": "France",
+                "word_index": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "entity": "Turkey",
+                "mention": "Turkey",
+                "word_index": [
+                    10,
+                    11
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/NotInLexico",
+                "begin": 36,
+                "end": 52
+            }
+        ],
+        "pred": []
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Brussels",
+                "begin": 17,
+                "end": 25
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 178,
+                "end": 184
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+                "begin": 66,
+                "end": 71
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 37,
+                "end": 44
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Brussels",
+                "mention": "Brussels",
+                "word_index": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "entity": "Vladimir_Putin",
+                "mention": "Putin",
+                "word_index": [
+                    13,
+                    14
+                ]
+            },
+            {
+                "entity": "Dimitri_Ivanovich_Dolgorukov",
+                "mention": "the Russian ambassador",
+                "word_index": [
+                    30,
+                    33
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 176,
+                "end": 178
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 59,
+                "end": 70
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/David_Cameron",
+                "begin": 14,
+                "end": 27
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_Kingdom",
+                "begin": 166,
+                "end": 168
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    30,
+                    31
+                ]
+            },
+            {
+                "entity": "European_Council",
+                "mention": "European Council",
+                "word_index": [
+                    6,
+                    8
+                ]
+            },
+            {
+                "entity": "Donald_Tusk",
+                "mention": "Donald Tusk",
+                "word_index": [
+                    9,
+                    11
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "the EU",
+                "word_index": [
+                    29,
+                    31
+                ]
+            },
+            {
+                "entity": "President_of_the_European_Council",
+                "mention": "European Council president",
+                "word_index": [
+                    6,
+                    9
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kiev",
+                "begin": 11,
+                "end": 15
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Kiev",
+                "mention": "Kiev",
+                "word_index": [
+                    2,
+                    3
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Le_Monde",
+                "begin": 259,
+                "end": 267
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Space_Agency",
+                "begin": 54,
+                "end": 75
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Luxembourg",
+                "begin": 177,
+                "end": 187
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Germany",
+                "begin": 166,
+                "end": 173
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Ariane_6",
+                "mention": "Ariane 6",
+                "word_index": [
+                    24,
+                    26
+                ]
+            },
+            {
+                "entity": "Ariane_5",
+                "mention": "Ariane 5",
+                "word_index": [
+                    44,
+                    46
+                ]
+            },
+            {
+                "entity": "European_Space_Agency",
+                "mention": "European Space Agency",
+                "word_index": [
+                    9,
+                    12
+                ]
+            },
+            {
+                "entity": "European_Space_Agency",
+                "mention": "the European Space Agency",
+                "word_index": [
+                    8,
+                    12
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 125,
+                "end": 139
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 196,
+                "end": 205
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/EUobserver",
+                "begin": 290,
+                "end": 300
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Athens",
+                "begin": 174,
+                "end": 180
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 211,
+                "end": 218
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 29,
+                "end": 35
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 269,
+                "end": 276
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 50,
+                "end": 56
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Athens",
+                "mention": "Athens",
+                "word_index": [
+                    32,
+                    33
+                ]
+            },
+            {
+                "entity": "EUobserver",
+                "mention": "EUobserver",
+                "word_index": [
+                    57,
+                    58
+                ]
+            },
+            {
+                "entity": "Katharevousa",
+                "mention": "Official Greek",
+                "word_index": [
+                    0,
+                    2
+                ]
+            },
+            {
+                "entity": "Greece",
+                "mention": "Greek sources",
+                "word_index": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "European Union",
+                "word_index": [
+                    22,
+                    24
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Eurostat",
+                "begin": 23,
+                "end": 31
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Eurostat",
+                "mention": "Eurostat",
+                "word_index": [
+                    5,
+                    6
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Gazeta_Wyborcza",
+                "begin": 79,
+                "end": 94
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Council",
+                "begin": 61,
+                "end": 77
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 3,
+                "end": 14
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Donald_Tusk",
+                "mention": "Donald Tusk",
+                "word_index": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "entity": "European_Council",
+                "mention": "European Council",
+                "word_index": [
+                    12,
+                    14
+                ]
+            },
+            {
+                "entity": "President_of_the_European_Council",
+                "mention": "president of the European Council",
+                "word_index": [
+                    9,
+                    14
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Brussels",
+                "begin": 12,
+                "end": 20
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Brussels",
+                "mention": "Brussels",
+                "word_index": [
+                    2,
+                    3
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 4,
+                "end": 16
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 161,
+                "end": 167
+            }
+        ],
+        "pred": []
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/NotInLexico",
+                "begin": 131,
+                "end": 145
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 83,
+                "end": 89
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Italy",
+                "begin": 103,
+                "end": 108
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/NotInLexico",
+                "begin": 16,
+                "end": 30
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ferrara",
+                "begin": 160,
+                "end": 167
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Ferrara",
+                "mention": "Ferrara",
+                "word_index": [
+                    28,
+                    29
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Ukraine",
+                "begin": 80,
+                "end": 87
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 0,
+                "end": 7
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 68,
+                "end": 74
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+                "begin": 114,
+                "end": 128
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Athens",
+                "begin": 142,
+                "end": 148
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kathimerini",
+                "begin": 188,
+                "end": 199
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 175,
+                "end": 177
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Russia",
+                "mention": "Russia",
+                "word_index": [
+                    15,
+                    16
+                ]
+            },
+            {
+                "entity": "Ukraine",
+                "mention": "Ukraine",
+                "word_index": [
+                    17,
+                    18
+                ]
+            },
+            {
+                "entity": "Russia",
+                "mention": "Russia",
+                "word_index": [
+                    20,
+                    21
+                ]
+            },
+            {
+                "entity": "Vladimir_Putin",
+                "mention": "Putin",
+                "word_index": [
+                    25,
+                    26
+                ]
+            },
+            {
+                "entity": "Athens",
+                "mention": "Athens",
+                "word_index": [
+                    28,
+                    29
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    34,
+                    35
+                ]
+            },
+            {
+                "entity": "Sanctions_against_Iraq",
+                "mention": "sanctions against",
+                "word_index": [
+                    13,
+                    15
+                ]
+            },
+            {
+                "entity": "Vladimir_Putin",
+                "mention": "Vladimir Putin",
+                "word_index": [
+                    24,
+                    26
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "the EU",
+                "word_index": [
+                    33,
+                    35
+                ]
+            },
+            {
+                "entity": "Vladimir_Putin",
+                "mention": "President Vladimir Putin",
+                "word_index": [
+                    23,
+                    26
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 47,
+                "end": 49
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "the EU",
+                "word_index": [
+                    8,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Iraq",
+                "begin": 116,
+                "end": 120
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant",
+                "begin": 46,
+                "end": 50
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Syria",
+                "begin": 106,
+                "end": 111
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+                "begin": 152,
+                "end": 165
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Syria",
+                "mention": "Syria",
+                "word_index": [
+                    20,
+                    21
+                ]
+            },
+            {
+                "entity": "Refugees_of_the_Syrian_Civil_War",
+                "mention": "from Syria",
+                "word_index": [
+                    19,
+                    21
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/France",
+                "begin": 132,
+                "end": 138
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Italy",
+                "begin": 143,
+                "end": 148
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 12,
+                "end": 14
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "entity": "Italian_unification",
+                "mention": "and Italy",
+                "word_index": [
+                    24,
+                    26
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Rome",
+                "begin": 122,
+                "end": 126
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Ariane_5",
+                "mention": "Ariane 5",
+                "word_index": [
+                    18,
+                    20
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 55,
+                "end": 68
+            }
+        ],
+        "pred": []
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/NATO",
+                "begin": 106,
+                "end": 110
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 75,
+                "end": 80
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Brexit",
+                "mention": "Brexit",
+                "word_index": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "entity": "NATO",
+                "mention": "NATO",
+                "word_index": [
+                    23,
+                    24
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 0,
+                "end": 5
+            }
+        ],
+        "pred": []
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 21,
+                "end": 35
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Moscow",
+                "begin": 44,
+                "end": 50
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Moscow",
+                "mention": "Moscow",
+                "word_index": [
+                    7,
+                    8
+                ]
+            },
+            {
+                "entity": "Alexis_Tsipras",
+                "mention": "Alexis Tsipras",
+                "word_index": [
+                    3,
+                    5
+                ]
+            },
+            {
+                "entity": "Prime_Minister_of_Greece",
+                "mention": "Greek prime minister",
+                "word_index": [
+                    0,
+                    3
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Union",
+                "begin": 60,
+                "end": 65
+            }
+        ],
+        "pred": []
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 24,
+                "end": 36
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 8,
+                "end": 22
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Union",
+                "mention": "European Union",
+                "word_index": [
+                    2,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Spain",
+                "begin": 41,
+                "end": 46
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Croatia",
+                "begin": 87,
+                "end": 94
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Decrease_(knitting)",
+                "mention": "decreases",
+                "word_index": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "entity": "Croatia",
+                "mention": "Croatia",
+                "word_index": [
+                    16,
+                    17
+                ]
+            },
+            {
+                "entity": "Mac_OS_X_Snow_Leopard",
+                "mention": "10.6",
+                "word_index": [
+                    22,
+                    23
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
+                "begin": 107,
+                "end": 122
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/The_Daily_Telegraph",
+                "begin": 139,
+                "end": 154
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Muammar_Gaddafi",
+                "mention": "Muammar Gaddafi",
+                "word_index": [
+                    18,
+                    20
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Cuba",
+                "begin": 17,
+                "end": 21
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Cuba",
+                "mention": "Cuba",
+                "word_index": [
+                    3,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 75,
+                "end": 81
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kommersant",
+                "begin": 14,
+                "end": 24
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Moscow",
+                "begin": 43,
+                "end": 49
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Moscow",
+                "mention": "Moscow",
+                "word_index": [
+                    6,
+                    7
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 35,
+                "end": 40
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 120,
+                "end": 126
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Irritation",
+                "mention": "irritation",
+                "word_index": [
+                    30,
+                    31
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 20,
+                "end": 22
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "the EU",
+                "word_index": [
+                    2,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/China",
+                "begin": 316,
+                "end": 321
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Mexico",
+                "begin": 305,
+                "end": 311
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 133,
+                "end": 139
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 252,
+                "end": 264
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 335,
+                "end": 341
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Nuclear_umbrella",
+                "mention": "nuclear umbrella",
+                "word_index": [
+                    41,
+                    43
+                ]
+            },
+            {
+                "entity": "Mexican\u2013American_War",
+                "mention": "war on Mexico",
+                "word_index": [
+                    57,
+                    60
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Western_Europe",
+                "begin": 6,
+                "end": 22
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Belgium",
+                "begin": 34,
+                "end": 41
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Denmark",
+                "begin": 117,
+                "end": 124
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Sweden",
+                "begin": 101,
+                "end": 107
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Habitants",
+                "mention": "habitants",
+                "word_index": [
+                    12,
+                    13
+                ]
+            },
+            {
+                "entity": "Denmark",
+                "mention": "Denmark",
+                "word_index": [
+                    21,
+                    22
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 32,
+                "end": 34
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    8,
+                    9
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Athens",
+                "begin": 53,
+                "end": 59
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 26,
+                "end": 30
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Athens",
+                "mention": "Athens",
+                "word_index": [
+                    8,
+                    9
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Le_Monde",
+                "begin": 13,
+                "end": 21
+            }
+        ],
+        "pred": []
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Estonia",
+                "begin": 112,
+                "end": 119
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Estonia",
+                "mention": "Estonia",
+                "word_index": [
+                    21,
+                    22
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Herman_Van_Rompuy",
+                "begin": 96,
+                "end": 106
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 34,
+                "end": 38
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Gazeta_Wyborcza",
+                "begin": 3,
+                "end": 18
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 145,
+                "end": 147
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Midwife",
+                "mention": "midwife",
+                "word_index": [
+                    24,
+                    25
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    31,
+                    32
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "the EU",
+                "word_index": [
+                    30,
+                    32
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 42,
+                "end": 48
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Spain",
+                "begin": 82,
+                "end": 87
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Greece",
+                "mention": "Greece",
+                "word_index": [
+                    6,
+                    7
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 97,
+                "end": 103
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 0,
+                "end": 12
+            }
+        ],
+        "pred": []
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+                "begin": 117,
+                "end": 130
+            }
+        ],
+        "pred": []
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+                "begin": 18,
+                "end": 25
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Sakharov_Prize",
+                "begin": 94,
+                "end": 108
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Parliament",
+                "begin": 116,
+                "end": 135
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Gazeta_Wyborcza",
+                "begin": 38,
+                "end": 53
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Gazeta_Wyborcza",
+                "mention": "Gazeta Wyborcza",
+                "word_index": [
+                    8,
+                    10
+                ]
+            },
+            {
+                "entity": "Sakharov_Prize",
+                "mention": "Sakharov Prize",
+                "word_index": [
+                    18,
+                    20
+                ]
+            },
+            {
+                "entity": "European_Parliament",
+                "mention": "European Parliament",
+                "word_index": [
+                    22,
+                    24
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+                "begin": 54,
+                "end": 61
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Hunger_strike",
+                "mention": "hunger strike",
+                "word_index": [
+                    17,
+                    19
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 64,
+                "end": 70
+            }
+        ],
+        "pred": [
+            {
+                "entity": "List_of_2009_box_office_number-one_films_in_South_Korea",
+                "mention": "of the year",
+                "word_index": [
+                    17,
+                    20
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Syria",
+                "begin": 245,
+                "end": 250
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Paris",
+                "begin": 170,
+                "end": 175
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Iraq",
+                "begin": 236,
+                "end": 240
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 268,
+                "end": 274
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty",
+                "begin": 21,
+                "end": 52
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Islamic_State_of_Iraq_and_the_Levant",
+                "mention": "Islamic State",
+                "word_index": [
+                    20,
+                    22
+                ]
+            },
+            {
+                "entity": "Radio_Free_Europe/Radio_Liberty",
+                "mention": "Radio Free Europe/Radio Liberty",
+                "word_index": [
+                    5,
+                    9
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Geert_Wilders",
+                "begin": 74,
+                "end": 87
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 180,
+                "end": 186
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Marine_Le_Pen",
+                "begin": 128,
+                "end": 141
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Frauke_Petry",
+                "begin": 100,
+                "end": 112
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n",
+                "begin": 50,
+                "end": 62
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Viktor_Orb\u00e1n",
+                "mention": "Viktor Orb\u00e1n",
+                "word_index": [
+                    8,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/White_House",
+                "begin": 124,
+                "end": 135
+            }
+        ],
+        "pred": [
+            {
+                "entity": "White_House",
+                "mention": "White House",
+                "word_index": [
+                    17,
+                    19
+                ]
+            },
+            {
+                "entity": "Southern_Provinces",
+                "mention": "the majority",
+                "word_index": [
+                    30,
+                    32
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kiev",
+                "begin": 105,
+                "end": 109
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Moscow",
+                "begin": 131,
+                "end": 137
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+                "begin": 74,
+                "end": 91
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Angela_Merkel",
+                "begin": 56,
+                "end": 69
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Fran\u00e7ois_Hollande",
+                "mention": "Hollande",
+                "word_index": [
+                    16,
+                    17
+                ]
+            },
+            {
+                "entity": "Kiev",
+                "mention": "Kiev",
+                "word_index": [
+                    21,
+                    22
+                ]
+            },
+            {
+                "entity": "Moscow",
+                "mention": "Moscow",
+                "word_index": [
+                    27,
+                    28
+                ]
+            },
+            {
+                "entity": "Angela_Merkel",
+                "mention": "Angela Merkel",
+                "word_index": [
+                    12,
+                    14
+                ]
+            },
+            {
+                "entity": "Fran\u00e7ois_Hollande",
+                "mention": "Fran\u00e7ois Hollande",
+                "word_index": [
+                    15,
+                    17
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 36,
+                "end": 41
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 46,
+                "end": 50
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 106,
+                "end": 112
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Russia",
+                "mention": "Russia",
+                "word_index": [
+                    20,
+                    21
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Twitter",
+                "begin": 34,
+                "end": 41
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Taiwan",
+                "begin": 234,
+                "end": 240
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Beijing",
+                "begin": 93,
+                "end": 100
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Thing_(assembly)",
+                "mention": "thing",
+                "word_index": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "entity": "Beijing",
+                "mention": "Beijing",
+                "word_index": [
+                    19,
+                    20
+                ]
+            },
+            {
+                "entity": "Taiwan",
+                "mention": "Taiwan",
+                "word_index": [
+                    47,
+                    48
+                ]
+            },
+            {
+                "entity": "Taiwan_under_Japanese_rule",
+                "mention": "of Taiwan",
+                "word_index": [
+                    46,
+                    48
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Trump",
+                "begin": 36,
+                "end": 41
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Angela_Merkel",
+                "begin": 43,
+                "end": 56
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Angela_Merkel",
+                "mention": "Angela Merkel",
+                "word_index": [
+                    9,
+                    11
+                ]
+            },
+            {
+                "entity": "21st_century",
+                "mention": "21st century",
+                "word_index": [
+                    34,
+                    36
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Great_Britain",
+                "begin": 226,
+                "end": 233
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 108,
+                "end": 110
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 200,
+                "end": 202
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 158,
+                "end": 160
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/David_Cameron",
+                "begin": 26,
+                "end": 33
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    19,
+                    20
+                ]
+            },
+            {
+                "entity": "Brake",
+                "mention": "brake",
+                "word_index": [
+                    24,
+                    25
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    29,
+                    30
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    38,
+                    39
+                ]
+            },
+            {
+                "entity": "Baruch_Plan",
+                "mention": "The plan",
+                "word_index": [
+                    0,
+                    2
+                ]
+            },
+            {
+                "entity": "Treaties_of_the_European_Union",
+                "mention": "EU treaty",
+                "word_index": [
+                    19,
+                    21
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Eurostat",
+                "begin": 24,
+                "end": 32
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Eurostat",
+                "mention": "Eurostat",
+                "word_index": [
+                    4,
+                    5
+                ]
+            },
+            {
+                "entity": "Japanese_calendar",
+                "mention": "second month",
+                "word_index": [
+                    18,
+                    20
+                ]
+            },
+            {
+                "entity": "Burst_mode_(photography)",
+                "mention": "in a row",
+                "word_index": [
+                    20,
+                    23
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 67,
+                "end": 69
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Eurostat",
+                "begin": 24,
+                "end": 32
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Eurostat",
+                "mention": "Eurostat",
+                "word_index": [
+                    4,
+                    5
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    11,
+                    12
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "the EU",
+                "word_index": [
+                    10,
+                    12
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 125,
+                "end": 127
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 136,
+                "end": 138
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Atlantic_Ocean",
+                "begin": 182,
+                "end": 196
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    19,
+                    20
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "the EU",
+                "word_index": [
+                    18,
+                    20
+                ]
+            },
+            {
+                "entity": "Transatlantic_Trade_and_Investment_Partnership",
+                "mention": "Transatlantic Trade and Investment Partnership",
+                "word_index": [
+                    1,
+                    6
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+                "begin": 44,
+                "end": 62
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kosovo",
+                "begin": 150,
+                "end": 156
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Albania",
+                "begin": 166,
+                "end": 173
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Habitants",
+                "mention": "habitants",
+                "word_index": [
+                    22,
+                    23
+                ]
+            },
+            {
+                "entity": "Kosovo",
+                "mention": "Kosovo",
+                "word_index": [
+                    27,
+                    28
+                ]
+            },
+            {
+                "entity": "Albania",
+                "mention": "Albania",
+                "word_index": [
+                    32,
+                    33
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 45,
+                "end": 47
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    9,
+                    10
+                ]
+            },
+            {
+                "entity": "Erosion",
+                "mention": "erosion",
+                "word_index": [
+                    15,
+                    16
+                ]
+            },
+            {
+                "entity": "European_integration",
+                "mention": "European integration",
+                "word_index": [
+                    20,
+                    22
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Italy",
+                "begin": 73,
+                "end": 78
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Operation_Triton",
+                "mention": "Operation Triton",
+                "word_index": [
+                    4,
+                    6
+                ]
+            },
+            {
+                "entity": "Judicial_panel",
+                "mention": "joined by",
+                "word_index": [
+                    16,
+                    18
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/De_Standaard",
+                "begin": 152,
+                "end": 164
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+                "begin": 34,
+                "end": 48
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 88,
+                "end": 102
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Greece",
+                "begin": 2,
+                "end": 8
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Greece",
+                "mention": "Greece",
+                "word_index": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "entity": "Alexis_Tsipras",
+                "mention": "Tsipras",
+                "word_index": [
+                    7,
+                    8
+                ]
+            },
+            {
+                "entity": "Alexis_Tsipras",
+                "mention": "Alexis Tsipras",
+                "word_index": [
+                    6,
+                    8
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "European Union",
+                "word_index": [
+                    17,
+                    19
+                ]
+            },
+            {
+                "entity": "Enlargement_of_the_European_Union",
+                "mention": "of the European Union",
+                "word_index": [
+                    15,
+                    19
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 15,
+                "end": 17
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Kiev",
+                "begin": 87,
+                "end": 91
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/United_States",
+                "begin": 4,
+                "end": 6
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    4,
+                    5
+                ]
+            },
+            {
+                "entity": "Kiev",
+                "mention": "Kiev",
+                "word_index": [
+                    17,
+                    18
+                ]
+            },
+            {
+                "entity": "European_Union",
+                "mention": "the EU",
+                "word_index": [
+                    3,
+                    5
+                ]
+            },
+            {
+                "entity": "Military_aid",
+                "mention": "military aid",
+                "word_index": [
+                    14,
+                    16
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Strasbourg",
+                "begin": 117,
+                "end": 127
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+                "begin": 43,
+                "end": 60
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Dissident",
+                "mention": "dissident",
+                "word_index": [
+                    7,
+                    8
+                ]
+            },
+            {
+                "entity": "Strasbourg",
+                "mention": "Strasbourg",
+                "word_index": [
+                    20,
+                    21
+                ]
+            },
+            {
+                "entity": "Guillermo_Fari\u00f1as",
+                "mention": "Guillermo Fari\u00f1as",
+                "word_index": [
+                    8,
+                    10
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Libya",
+                "begin": 53,
+                "end": 58
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/The_Daily_Telegraph",
+                "begin": 125,
+                "end": 140
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 99,
+                "end": 105
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant",
+                "begin": 15,
+                "end": 19
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Quilliam_(think_tank)",
+                "begin": 212,
+                "end": 220
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant",
+                "begin": 0,
+                "end": 13
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Libya",
+                "mention": "Libya",
+                "word_index": [
+                    10,
+                    11
+                ]
+            },
+            {
+                "entity": "Islamic_State_of_Iraq_and_the_Levant",
+                "mention": "Islamic State",
+                "word_index": [
+                    0,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 0,
+                "end": 6
+            }
+        ],
+        "pred": []
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Berlin",
+                "begin": 17,
+                "end": 23
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Moscow",
+                "begin": 68,
+                "end": 74
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 92,
+                "end": 96
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Berlin",
+                "mention": "Berlin",
+                "word_index": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "entity": "Moscow",
+                "mention": "Moscow",
+                "word_index": [
+                    13,
+                    14
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Europe",
+                "begin": 4,
+                "end": 10
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Old_Europe_(archaeology)",
+                "mention": "Old Europe",
+                "word_index": [
+                    0,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 17,
+                "end": 28
+            }
+        ],
+        "pred": [
+            {
+                "entity": "Donald_Tusk",
+                "mention": "Donald Tusk",
+                "word_index": [
+                    5,
+                    7
+                ]
+            }
+        ]
+    },
+    {
+        "true": [
+            {
+                "entity": "https://en.wikipedia.org/wiki/Donald_Tusk",
+                "begin": 20,
+                "end": 24
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/European_Union",
+                "begin": 35,
+                "end": 37
+            },
+            {
+                "entity": "https://en.wikipedia.org/wiki/Russia",
+                "begin": 97,
+                "end": 103
+            }
+        ],
+        "pred": [
+            {
+                "entity": "European_Union",
+                "mention": "EU",
+                "word_index": [
+                    7,
+                    8
+                ]
+            },
+            {
+                "entity": "Russia",
+                "mention": "Russia",
+                "word_index": [
+                    16,
+                    17
+                ]
+            },
+            {
+                "entity": "Sanctions_against_Iraq",
+                "mention": "sanctions against",
+                "word_index": [
+                    14,
+                    16
+                ]
+            }
+        ]
+    }
+]
